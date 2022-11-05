@@ -20,6 +20,7 @@ function Change(id, index, timeStamp, entry, processingTime){
 }
 
 let combatStatus = false;
+const poi = [YOU, YOUR];
 const changeArray = [];
 let id=0
 const interval = 3000;
@@ -40,12 +41,12 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     // ** Note to self: timestamp in the log is in miliseconds but last 3 digits are removed (last digit is seconds).
     const x = data.findLastIndex(e=> getTimeStamp(e)<timeStamp-interval/1000); // gets index of first record match
     console.log(data[x]);
-    
+    // cycle through each record to determine combat status
+    combatStatus = parseCheck(data.slice(x));
 
 
     
     // establish combat status
-    // cycle through every record to determine combat status
     // if combat status has changed toggle combat flag
 
     // if combat status is true then pass evry entry into a new array
@@ -54,14 +55,14 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
 
 
 
-    // const end = Date.now();
-    // const processingTime = end-start;
-    // const obj = {id, index, timeStamp, entry, processingTime};
-    // // const obj = new Change(i, index, timeStamp, entry, `${timer}ms`)
-    // changeArray.push(obj)
-    // console.log(obj);
-    // // console.log(entry);
-    // id++
+    const end = Date.now();
+    const processingTime = end-start;
+    const obj = {id, index, timeStamp, entry, processingTime};
+    // const obj = new Change(i, index, timeStamp, entry, `${timer}ms`)
+    changeArray.push(obj)
+    console.log(obj);
+    // console.log(entry);
+    id++
 
 });
 
@@ -69,9 +70,14 @@ function getTimeStamp(str){
     return parseInt(str.slice(1, 11));
 }
 
-function combatEncounter(str){
+function parseCheck(arr){
     // checks the string for combat indicators
     // returns true if present
+    arr.forEach(e => {
+        console.log(e);
+    });
+
+    return false;
 }
 
 
