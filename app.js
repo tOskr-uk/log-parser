@@ -8,87 +8,88 @@ const exportParse = require('./export');
 // const read = 'eq2log_Terek.txt';
 // const read = 'eq2log_Terek (copy).txt';
 
-exportParse();
+// exportParse();
 const path = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/';
 const read = 'sample-log.txt';
 
 // const write = 'test.txt'
 
-function Change(id, index, timeStamp, entry, processingTime){
-    this.id = id;
-    this.index = index;
-    this.timeStamp = timeStamp;
-    this.entry = entry;
-    this.processingTime = processingTime;
-}
+// function Change(id, index, timeStamp, entry, processingTime){
+//     this.id = id;                            // user generated unique id for for each record
+//     this.index = index;                      // index of the entry in the sourse log
+//     this.timeStamp = timeStamp;              // timestamp of the entry from the source log as integer
+//     this.entry = entry;                      // the log entry
+//     this.processingTime = processingTime;    // time taken to process the actions to this point
+// }
+
+
+
+
+
+
 
 let combatStatus = false;
-// const poi = [YOU, YOUR];
 const changeArray = [];
 let id=0
-const interval = 3000;
+
+// ----------------------------------------------------------------------------
+// MAIN FUNCTION called every time a change is detected in the sourse log file.
+// ----------------------------------------------------------------------------
+const interval = 2000;
 fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     const start = Date.now();
+    
     let index, entry, timeStamp;
-    const log = fs.readFileSync(`${path}${read}`,{encoding:'utf8', flag:'r'});
-    const data = log.split('\n');
 
+    // HEAVY STEP - puts the combat log into an array split by utf8 newline char 
+    fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
+        if (err) {console.log(err); return };
+        data = data.split('\n');
 
-    index = data.length-3;
-    entry = data[index];
+        // gets and sets the last element in the array that has a value and its index
+        index = data.length-3;
+        entry = data[index];
 
-    // get timestamp from last record
-    timeStamp = getTimeStamp(entry);
-    
-    // go back at least the time of the interval value
-    // ** Note to self: timestamp in the log is in miliseconds but last 3 digits are removed (last digit is seconds).
-    const x = data.findLastIndex(e=> getTimeStamp(e)<timeStamp-interval/1000); // gets index of first record match
-    console.log(data[x]);
-    
-    
-    // cycle through each record to determine combat status
-    combatStatus = parseCheck(data.slice(x));
+        // ** Note to self: timestamp in the log is in miliseconds but last 3 digits are removed (last digit is seconds).
+        // get timestamp from last record
+        timeStamp = getTimeStamp(entry);
 
+        // returns the index of the last entry where the timestamp is less than the last record - the interval value.
+        const x = data.findLastIndex(e=> getTimeStamp(e)<timeStamp-interval/1000); 
 
-    
-    // establish combat status
-    // if combat status has changed toggle combat flag
+        // establish combat status
+        combatStatus = parseCombatCheck(data.slice(x));   // passes an array of log entries from the the index of x (above) to the end of the log 
+        // if this returns a timestamp then combat events start here...
 
-    // if combat status is true then pass evry entry into a new array
-    // do this until combat stays is false
-    // when combat status is false parse the combat array as required.
+        // if combat status is true then pass evry entry into a new array
+        // do this until combat status is false
+        // when combat status is false parse the combat array as required.
 
+        const end = Date.now();
+        const processingTime = end-start;
 
+        const obj = {id, index, timeStamp, entry, processingTime};
+        changeArray.push(obj);
 
-    const end = Date.now();
-    const processingTime = end-start;
-    const obj = {id, index, timeStamp, entry, processingTime};
-    // const obj = new Change(i, index, timeStamp, entry, `${timer}ms`)
-    changeArray.push(obj)
-    console.log(obj);
-    // console.log(entry);
-    id++
-
+        // console.log(obj);
+        // console.log(processingTime);
+        id++
+    });
+            
 });
-
+        
 function getTimeStamp(str){
     // takes an entry from the log and returns the entries timestamp
     return parseInt(str.slice(1, 11));
 }
-
-function parseCheck(arr){
-    // checks the string for combat indicators
-    // returns true if present
+        
+function parseCombatCheck(arr){
+    // checks the array for combat indicators
+    // returns the timestamp of the first positive indicator if present 
+    // toggles the global combatStatus variable as required.
     arr.forEach(e => {
         console.log(e);
     });
-
+    
     return false;
 }
-
-
-// const milisec = 1667507312;
-// console.log(new Date(1667507312));
-// console.log(Date.now());
-
-console.log(Date.parse('Thu Nov  3 21:18:39 2022'));

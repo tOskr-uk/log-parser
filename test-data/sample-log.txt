@@ -6875,14 +6875,14 @@ Discord Link: https://discord.gg/g2PgpfUY68
 (1667510252)[Thu Nov  3 21:17:32 2022] Garn's Blooming Flames hits a Thulian torturer for 319 heat damage.
 (1667510252)[Thu Nov  3 21:17:32 2022] A Thulian torturer's speech returns.
 (1667510252)[Thu Nov  3 21:17:32 2022] The stare no longer effects A Thulian torturer.
-(1667510252)[Thu Nov  3 21:17:32 2022] A Thulian torturer is no longer exposed to the elements.
+(1667510252)[Thu Nov  3 21:17:32 2022] A Thulian torturer is no longer exposed to the elementse.
 (1667510252)[Thu Nov  3 21:17:32 2022] You stop fighting.
 (1667510252)[Thu Nov  3 21:17:32 2022] Garn has killed a Thulian torturer.
 (1667510252)[Thu Nov  3 21:17:32 2022] Too little too late...  Your target is already dead.
 (1667510254)[Thu Nov  3 21:17:34 2022] Your share of 8 Silver, 91 Copper from the corpse of a Thulian torturer is 4 Silver, 46 Copper.
 (1667510255)[Thu Nov  3 21:17:35 2022] YOUR Corruption of the Elements refreshes YOU for 48 mana points.
 (1667510255)[Thu Nov  3 21:17:35 2022] YOUR Corruption of the Elements heals YOU for 48 hit points.
-(1667510255)[Thu Nov  3 21:17:35 2022] Adohi's Manatap refreshes Vosanab for 14 mana points.
+(1667510255)[Thu Nov  3 21:17:35 2022] Adohi's Manatap refreshes Vosanab for 14 mana points. 
 (1667510255)[Thu Nov  3 21:17:35 2022] Adohi's Manatap refreshes Adohi for 14 mana points.
 (1667510255)[Thu Nov  3 21:17:35 2022] Adohi's Manatap refreshes YOU for 14 mana points.
 (1667510256)[Thu Nov  3 21:17:36 2022] Adohi failed to disarm the trap on Small Chest, but the trap didn't trigger.
@@ -7363,5 +7363,5 @@ Discord Link: https://discord.gg/g2PgpfUY68
 (1667510318)[Thu Nov  3 21:18:38 2022] a Thulian torturer hits Vosanab for 583 piercing damage.
 (1667510318)[Thu Nov  3 21:18:38 2022] Konartik hits Vosanab for 257 piercing damage.
 (1667510319)[Thu Nov  3 21:18:39 2022] Vosanab looks helpless!
-(1667510320)[Thu Nov  3 21:18:40 2022] a Thulian lifestealer hits Vosanab for 437 piercing damage.
+(1667510320)[Thu Nov  3 21:18:40 2022] a Thulian lifestealer hits Vosanab for 1437 piercing damage.
 
