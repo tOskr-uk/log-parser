@@ -44,6 +44,8 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     // ** Note to self: timestamp in the log is in miliseconds but last 3 digits are removed (last digit is seconds).
     const x = data.findLastIndex(e=> getTimeStamp(e)<timeStamp-interval/1000); // gets index of first record match
     console.log(data[x]);
+    
+    
     // cycle through each record to determine combat status
     combatStatus = parseCheck(data.slice(x));
 
@@ -70,6 +72,7 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
 });
 
 function getTimeStamp(str){
+    // takes an entry from the log and returns the entries timestamp
     return parseInt(str.slice(1, 11));
 }
 

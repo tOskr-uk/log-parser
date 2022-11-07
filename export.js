@@ -7,9 +7,9 @@
 // Paramaters are optional and defualt values provided for testing.
 
 const exportToFile = function(
-    inputPath = '/home/toskr/Desktop/',
-    inputFile = 'test log.txt', 
-    outputPath = '/home/toskr/Desktop/projects/EQ2-Parser/outputs/', 
+    inputPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/',
+    inputFile = 'sample-log.txt', 
+    outputPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/outputs/', 
     poi = ['YOU ', 'YOUR ', 'You ', 'you ', 'Your ', 'your ', 'Garn ', 'Garn\'s', 'Adohi ', 'Adohi\'s']
     ){
         

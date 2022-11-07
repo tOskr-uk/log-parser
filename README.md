@@ -65,21 +65,14 @@ Damage the player outputs features as 'YOU' and 'YOUR' Some samples include...
 
 
 # TODO
-
-*[ ] Task 1
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
-
-
 |Status |Task |Update |
 |-|-|-|
-Done|Check a players pet with the same name as the player is parsed by their name also.|export.js module created to to this. Added optional params that default to the test environment.|
-Open |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|
-Open|Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included ||
-Open|||
-Open|||
-Open|||
+_|Check a players pet with the same name as the player is parsed by their name also.||
+Done |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|export.js module created to to this. Added optional params that default to the test environment. See module for details|
+_|Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included. Maybe check other parsers see if this works... ||
+_|||
+_|||
+
     
 
 
