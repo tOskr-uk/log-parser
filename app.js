@@ -2,10 +2,13 @@
 
 const { timeStamp } = require('console');
 const fs = require('fs');
+const exportParse = require('./export');
+
 // const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon/';
 // const read = 'eq2log_Terek.txt';
 // const read = 'eq2log_Terek (copy).txt';
 
+exportParse();
 const path = '/home/toskr/Desktop/';
 const read = 'test log.txt';
 
@@ -20,7 +23,7 @@ function Change(id, index, timeStamp, entry, processingTime){
 }
 
 let combatStatus = false;
-const poi = [YOU, YOUR];
+// const poi = [YOU, YOUR];
 const changeArray = [];
 let id=0
 const interval = 3000;
@@ -84,4 +87,5 @@ function parseCheck(arr){
 // const milisec = 1667507312;
 // console.log(new Date(1667507312));
 // console.log(Date.now());
+
 console.log(Date.parse('Thu Nov  3 21:18:39 2022'));

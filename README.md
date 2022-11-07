@@ -1,7 +1,15 @@
 # EQ2-Parser
 
-Assumptions
------------
+An application to parse the EQ2 log file and extract key data for performance analysis.
+
+The EQ2 log file is currently being continuously moitored for changes using node fs.watchFile which apears to be performing well so far. May consider replacing it using a method yet to be determined to check on the size and or in combination with other file attributes that indicate a change in the log file without the need to process the files contents.
+
+
+
+
+
+
+
 1) app will have to continuously monitor the combat log for changes but the frequency of the check (interval) should be less than the processing time.
 
 Test 1 - interval set to 100ms
@@ -57,16 +65,15 @@ Damage the player outputs features as 'YOU' and 'YOUR' Some samples include...
 
 
 # TODO
-- Check a players pet with the same name as the player is parsed by their name also.
-- Parse a log and save ouputs filtered for the following for observation.
-    * YOU
-    * you
-    * You 
-    * YOUR
-    * Garn (pet name)
-    * Garn's
-    * Adohi
-    * Adohi's
+
+|Status |Task |Update |
+|-|-|-|
+Done|Check a players pet with the same name as the player is parsed by their name also.|export.js module created to to this. Added optional params that default to the test environment.|
+Open |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|
+Open|Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included ||
+Open|||
+Open|||
+Open|||
     
 
 
