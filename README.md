@@ -66,6 +66,12 @@ Damage the player outputs features as 'YOU' and 'YOUR' Some samples include...
 
 # TODO
 
+*[ ] Task 1
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+
+
 |Status |Task |Update |
 |-|-|-|
 Done|Check a players pet with the same name as the player is parsed by their name also.|export.js module created to to this. Added optional params that default to the test environment.|
