@@ -9,8 +9,8 @@ const exportParse = require('./export');
 // const read = 'eq2log_Terek (copy).txt';
 
 exportParse();
-const path = '/home/toskr/Desktop/';
-const read = 'test log.txt';
+const path = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/';
+const read = 'sample-log.txt';
 
 // const write = 'test.txt'
 
