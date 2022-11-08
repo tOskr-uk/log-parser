@@ -5,7 +5,9 @@ An application to parse the EQ2 log file and extract key data for performance an
 The EQ2 log file is currently being continuously moitored for changes using node fs.watchFile which apears to be performing well so far. May consider replacing it using a method yet to be determined to check on the size and or in combination with other file attributes that indicate a change in the log file without the need to process the files contents.
 
 
-
+## Observation
+* Log timer uses 1 second units.
+* Many entries can exists sharing the same timer stamp
 
 
 

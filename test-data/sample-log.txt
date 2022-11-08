@@ -7364,4 +7364,13 @@ Discord Link: https://discord.gg/g2PgpfUY68
 (1667510318)[Thu Nov  3 21:18:38 2022] Konartik hits Vosanab for 257 piercing damage.
 (1667510319)[Thu Nov  3 21:18:39 2022] Vosanab looks helpless!
 (1667510320)[Thu Nov  3 21:18:40 2022] a Thulian lifestealer hits Vosanab for 1437 piercing damage.
-
+(1667510320)[Thu Nov  3 21:18:40 2022] a Thulian lifesteale.
+(1667510322)[Thu Nov  3 21:18:42 2022] 1
+(1667510322)[Thu Nov  3 21:18:42 2022] 2
+(1667510323)[Thu Nov  3 21:18:43 2022] 3
+(1667510324)[Thu Nov  3 21:18:44 2022] 4
+(1667510325)[Thu Nov  3 21:18:45 2022] 5
+(1667510326)[Thu Nov  3 21:18:46 2022] 6
+(1667510327)[Thu Nov  3 21:18:47 2022] 7
+(1667510328)[Thu Nov  3 21:18:48 2022] 8
+(1667510329)[Thu Nov  3 21:18:49 2022] 9
