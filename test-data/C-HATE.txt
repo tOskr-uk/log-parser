@@ -1,0 +1,788 @@
+(1668288407)[Sat Nov 12 21:26:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,933 threat.
+(1668288407)[Sat Nov 12 21:26:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,803 threat.
+(1668288407)[Sat Nov 12 21:26:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,008 threat.
+(1668288407)[Sat Nov 12 21:26:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,912 threat.
+(1668288409)[Sat Nov 12 21:26:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,937 threat.
+(1668288409)[Sat Nov 12 21:26:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,913 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,995 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,004 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,785 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,852 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,803 threat.
+(1668288446)[Sat Nov 12 21:27:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for a critical of 2,700 threat.
+(1668288448)[Sat Nov 12 21:27:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,937 threat.
+(1668288448)[Sat Nov 12 21:27:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,953 threat.
+(1668288451)[Sat Nov 12 21:27:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,010 threat.
+(1668288451)[Sat Nov 12 21:27:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,870 threat.
+(1668288452)[Sat Nov 12 21:27:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,041 threat.
+(1668288452)[Sat Nov 12 21:27:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,112 threat.
+(1668288453)[Sat Nov 12 21:27:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,866 threat.
+(1668288453)[Sat Nov 12 21:27:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,289 threat.
+(1668288458)[Sat Nov 12 21:27:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,140 threat.
+(1668288458)[Sat Nov 12 21:27:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,962 threat.
+(1668288459)[Sat Nov 12 21:27:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,149 threat.
+(1668288459)[Sat Nov 12 21:27:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,778 threat.
+(1668288471)[Sat Nov 12 21:27:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,072 threat.
+(1668288471)[Sat Nov 12 21:27:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,026 threat.
+(1668288471)[Sat Nov 12 21:27:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,085 threat.
+(1668288474)[Sat Nov 12 21:27:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,078 threat.
+(1668288474)[Sat Nov 12 21:27:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,071 threat.
+(1668288474)[Sat Nov 12 21:27:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,151 threat.
+(1668288475)[Sat Nov 12 21:27:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,059 threat.
+(1668288475)[Sat Nov 12 21:27:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,138 threat.
+(1668288475)[Sat Nov 12 21:27:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,037 threat.
+(1668288478)[Sat Nov 12 21:27:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,221 threat.
+(1668288478)[Sat Nov 12 21:27:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,126 threat.
+(1668288483)[Sat Nov 12 21:28:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,904 threat.
+(1668288483)[Sat Nov 12 21:28:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,280 threat.
+(1668288483)[Sat Nov 12 21:28:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,980 threat.
+(1668288483)[Sat Nov 12 21:28:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,065 threat.
+(1668288484)[Sat Nov 12 21:28:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,124 threat.
+(1668288484)[Sat Nov 12 21:28:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,172 threat.
+(1668288487)[Sat Nov 12 21:28:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,175 threat.
+(1668288487)[Sat Nov 12 21:28:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,044 threat.
+(1668288493)[Sat Nov 12 21:28:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,246 threat.
+(1668288494)[Sat Nov 12 21:28:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,458 threat.
+(1668288495)[Sat Nov 12 21:28:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,069 threat.
+(1668288496)[Sat Nov 12 21:28:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,000 threat.
+(1668288500)[Sat Nov 12 21:28:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,862 threat.
+(1668288500)[Sat Nov 12 21:28:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,264 threat.
+(1668288502)[Sat Nov 12 21:28:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,788 threat.
+(1668288502)[Sat Nov 12 21:28:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,172 threat.
+(1668288504)[Sat Nov 12 21:28:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,825 threat.
+(1668288504)[Sat Nov 12 21:28:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,100 threat.
+(1668288507)[Sat Nov 12 21:28:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,165 threat.
+(1668288507)[Sat Nov 12 21:28:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,174 threat.
+(1668288508)[Sat Nov 12 21:28:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,018 threat.
+(1668288508)[Sat Nov 12 21:28:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,202 threat.
+(1668288511)[Sat Nov 12 21:28:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,296 threat.
+(1668288512)[Sat Nov 12 21:28:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,230 threat.
+(1668288514)[Sat Nov 12 21:28:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,029 threat.
+(1668288517)[Sat Nov 12 21:28:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,000 threat.
+(1668288518)[Sat Nov 12 21:28:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,772 threat.
+(1668288547)[Sat Nov 12 21:29:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,288 threat.
+(1668288548)[Sat Nov 12 21:29:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,240 threat.
+(1668288549)[Sat Nov 12 21:29:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,959 threat.
+(1668288549)[Sat Nov 12 21:29:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,982 threat.
+(1668288550)[Sat Nov 12 21:29:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,008 threat.
+(1668288550)[Sat Nov 12 21:29:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,719 threat.
+(1668288729)[Sat Nov 12 21:32:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,960 threat.
+(1668288729)[Sat Nov 12 21:32:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,795 threat.
+(1668288729)[Sat Nov 12 21:32:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,038 threat.
+(1668288729)[Sat Nov 12 21:32:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,653 threat.
+(1668288731)[Sat Nov 12 21:32:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,246 threat.
+(1668288731)[Sat Nov 12 21:32:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,979 threat.
+(1668288731)[Sat Nov 12 21:32:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,200 threat.
+(1668288731)[Sat Nov 12 21:32:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,994 threat.
+(1668288738)[Sat Nov 12 21:32:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,975 threat.
+(1668288738)[Sat Nov 12 21:32:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 2,740 threat.
+(1668288738)[Sat Nov 12 21:32:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,859 threat.
+(1668288739)[Sat Nov 12 21:32:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,830 threat.
+(1668288739)[Sat Nov 12 21:32:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,968 threat.
+(1668288739)[Sat Nov 12 21:32:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,800 threat.
+(1668288740)[Sat Nov 12 21:32:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,966 threat.
+(1668288740)[Sat Nov 12 21:32:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,013 threat.
+(1668288740)[Sat Nov 12 21:32:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,796 threat.
+(1668288741)[Sat Nov 12 21:32:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,041 threat.
+(1668288741)[Sat Nov 12 21:32:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,906 threat.
+(1668288741)[Sat Nov 12 21:32:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,047 threat.
+(1668288749)[Sat Nov 12 21:32:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 2,756 threat.
+(1668288760)[Sat Nov 12 21:32:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,042 threat.
+(1668288761)[Sat Nov 12 21:32:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,279 threat.
+(1668288762)[Sat Nov 12 21:32:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,296 threat.
+(1668288763)[Sat Nov 12 21:32:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,073 threat.
+(1668288766)[Sat Nov 12 21:32:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,237 threat.
+(1668288766)[Sat Nov 12 21:32:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,272 threat.
+(1668288766)[Sat Nov 12 21:32:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,335 threat.
+(1668288771)[Sat Nov 12 21:32:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,916 threat.
+(1668288771)[Sat Nov 12 21:32:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,084 threat.
+(1668288771)[Sat Nov 12 21:32:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,882 threat.
+(1668288771)[Sat Nov 12 21:32:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,451 threat.
+(1668288772)[Sat Nov 12 21:32:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,022 threat.
+(1668288772)[Sat Nov 12 21:32:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,247 threat.
+(1668288776)[Sat Nov 12 21:32:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,137 threat.
+(1668288776)[Sat Nov 12 21:32:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,086 threat.
+(1668288780)[Sat Nov 12 21:33:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,046 threat.
+(1668288780)[Sat Nov 12 21:33:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,990 threat.
+(1668288781)[Sat Nov 12 21:33:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,015 threat.
+(1668288781)[Sat Nov 12 21:33:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,067 threat.
+(1668288785)[Sat Nov 12 21:33:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,850 threat.
+(1668288785)[Sat Nov 12 21:33:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,133 threat.
+(1668288791)[Sat Nov 12 21:33:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,998 threat.
+(1668288792)[Sat Nov 12 21:33:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,057 threat.
+(1668288794)[Sat Nov 12 21:33:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,250 threat.
+(1668288796)[Sat Nov 12 21:33:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,238 threat.
+(1668288797)[Sat Nov 12 21:33:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,206 threat.
+(1668288798)[Sat Nov 12 21:33:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,288 threat.
+(1668288800)[Sat Nov 12 21:33:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,847 threat.
+(1668288800)[Sat Nov 12 21:33:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,823 threat.
+(1668288802)[Sat Nov 12 21:33:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,942 threat.
+(1668288802)[Sat Nov 12 21:33:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,871 threat.
+(1668288802)[Sat Nov 12 21:33:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for a critical of 2,790 threat.
+(1668288802)[Sat Nov 12 21:33:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,292 threat.
+(1668288804)[Sat Nov 12 21:33:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,876 threat.
+(1668288804)[Sat Nov 12 21:33:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,998 threat.
+(1668288806)[Sat Nov 12 21:33:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,944 threat.
+(1668288806)[Sat Nov 12 21:33:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,117 threat.
+(1668288807)[Sat Nov 12 21:33:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,842 threat.
+(1668288807)[Sat Nov 12 21:33:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,256 threat.
+(1668288810)[Sat Nov 12 21:33:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,854 threat.
+(1668288810)[Sat Nov 12 21:33:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,007 threat.
+(1668288810)[Sat Nov 12 21:33:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,897 threat.
+(1668288810)[Sat Nov 12 21:33:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,129 threat.
+(1668288813)[Sat Nov 12 21:33:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,043 threat.
+(1668288816)[Sat Nov 12 21:33:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,161 threat.
+(1668288817)[Sat Nov 12 21:33:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,242 threat.
+(1668288971)[Sat Nov 12 21:36:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,776 threat.
+(1668288971)[Sat Nov 12 21:36:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,706 threat.
+(1668288971)[Sat Nov 12 21:36:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,982 threat.
+(1668288973)[Sat Nov 12 21:36:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,770 threat.
+(1668288973)[Sat Nov 12 21:36:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,019 threat.
+(1668288973)[Sat Nov 12 21:36:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,924 threat.
+(1668288973)[Sat Nov 12 21:36:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,989 threat.
+(1668288973)[Sat Nov 12 21:36:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,964 threat.
+(1668288974)[Sat Nov 12 21:36:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,852 threat.
+(1668288974)[Sat Nov 12 21:36:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,936 threat.
+(1668288974)[Sat Nov 12 21:36:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,911 threat.
+(1668288974)[Sat Nov 12 21:36:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,791 threat.
+(1668289016)[Sat Nov 12 21:36:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,232 threat.
+(1668289016)[Sat Nov 12 21:36:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,014 threat.
+(1668289016)[Sat Nov 12 21:36:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,272 threat.
+(1668289017)[Sat Nov 12 21:36:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,081 threat.
+(1668289017)[Sat Nov 12 21:36:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,978 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,141 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,141 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,888 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,237 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,257 threat.
+(1668289018)[Sat Nov 12 21:36:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,213 threat.
+(1668289019)[Sat Nov 12 21:36:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,198 threat.
+(1668289019)[Sat Nov 12 21:36:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,249 threat.
+(1668289019)[Sat Nov 12 21:36:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,086 threat.
+(1668289021)[Sat Nov 12 21:37:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,092 threat.
+(1668289021)[Sat Nov 12 21:37:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,125 threat.
+(1668289021)[Sat Nov 12 21:37:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,288 threat.
+(1668289024)[Sat Nov 12 21:37:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,166 threat.
+(1668289024)[Sat Nov 12 21:37:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,136 threat.
+(1668289024)[Sat Nov 12 21:37:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,009 threat.
+(1668289026)[Sat Nov 12 21:37:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,266 threat.
+(1668289026)[Sat Nov 12 21:37:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,237 threat.
+(1668289027)[Sat Nov 12 21:37:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,011 threat.
+(1668289027)[Sat Nov 12 21:37:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,063 threat.
+(1668289028)[Sat Nov 12 21:37:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,387 threat.
+(1668289028)[Sat Nov 12 21:37:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,283 threat.
+(1668289031)[Sat Nov 12 21:37:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,294 threat.
+(1668289032)[Sat Nov 12 21:37:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,022 threat.
+(1668289035)[Sat Nov 12 21:37:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,214 threat.
+(1668289035)[Sat Nov 12 21:37:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,018 threat.
+(1668289039)[Sat Nov 12 21:37:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,076 threat.
+(1668289040)[Sat Nov 12 21:37:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,048 threat.
+(1668289041)[Sat Nov 12 21:37:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,827 threat.
+(1668289041)[Sat Nov 12 21:37:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,964 threat.
+(1668289042)[Sat Nov 12 21:37:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,629 threat.
+(1668289042)[Sat Nov 12 21:37:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,892 threat.
+(1668289043)[Sat Nov 12 21:37:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,775 threat.
+(1668289043)[Sat Nov 12 21:37:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,049 threat.
+(1668289044)[Sat Nov 12 21:37:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,801 threat.
+(1668289044)[Sat Nov 12 21:37:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,965 threat.
+(1668289046)[Sat Nov 12 21:37:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,028 threat.
+(1668289046)[Sat Nov 12 21:37:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,009 threat.
+(1668289046)[Sat Nov 12 21:37:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,896 threat.
+(1668289067)[Sat Nov 12 21:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,242 threat.
+(1668289067)[Sat Nov 12 21:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,785 threat.
+(1668289067)[Sat Nov 12 21:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,038 threat.
+(1668289067)[Sat Nov 12 21:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,730 threat.
+(1668289092)[Sat Nov 12 21:38:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,968 threat.
+(1668289094)[Sat Nov 12 21:38:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,881 threat.
+(1668289097)[Sat Nov 12 21:38:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,666 threat.
+(1668289097)[Sat Nov 12 21:38:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,950 threat.
+(1668289099)[Sat Nov 12 21:38:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,997 threat.
+(1668289101)[Sat Nov 12 21:38:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,842 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for a critical of 3,103 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,974 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,822 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for a critical of 3,000 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,842 threat.
+(1668289198)[Sat Nov 12 21:39:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,866 threat.
+(1668289200)[Sat Nov 12 21:40:00 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,016 threat.
+(1668289200)[Sat Nov 12 21:40:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,880 threat.
+(1668289200)[Sat Nov 12 21:40:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,906 threat.
+(1668289202)[Sat Nov 12 21:40:02 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,167 threat.
+(1668289202)[Sat Nov 12 21:40:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,852 threat.
+(1668289202)[Sat Nov 12 21:40:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,813 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,207 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,936 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,011 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,144 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,841 threat.
+(1668289203)[Sat Nov 12 21:40:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,948 threat.
+(1668289208)[Sat Nov 12 21:40:08 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,047 threat.
+(1668289208)[Sat Nov 12 21:40:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,172 threat.
+(1668289208)[Sat Nov 12 21:40:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,770 threat.
+(1668289209)[Sat Nov 12 21:40:09 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,082 threat.
+(1668289209)[Sat Nov 12 21:40:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,418 threat.
+(1668289209)[Sat Nov 12 21:40:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,820 threat.
+(1668289210)[Sat Nov 12 21:40:10 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for a critical of 3,276 threat.
+(1668289210)[Sat Nov 12 21:40:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,256 threat.
+(1668289210)[Sat Nov 12 21:40:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,884 threat.
+(1668289211)[Sat Nov 12 21:40:11 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,022 threat.
+(1668289211)[Sat Nov 12 21:40:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,052 threat.
+(1668289211)[Sat Nov 12 21:40:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,800 threat.
+(1668289212)[Sat Nov 12 21:40:12 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,223 threat.
+(1668289212)[Sat Nov 12 21:40:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,264 threat.
+(1668289212)[Sat Nov 12 21:40:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,042 threat.
+(1668289215)[Sat Nov 12 21:40:15 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,096 threat.
+(1668289215)[Sat Nov 12 21:40:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,147 threat.
+(1668289215)[Sat Nov 12 21:40:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,861 threat.
+(1668289216)[Sat Nov 12 21:40:16 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,037 threat.
+(1668289216)[Sat Nov 12 21:40:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,112 threat.
+(1668289216)[Sat Nov 12 21:40:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,011 threat.
+(1668289218)[Sat Nov 12 21:40:18 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,020 threat.
+(1668289218)[Sat Nov 12 21:40:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,078 threat.
+(1668289218)[Sat Nov 12 21:40:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,995 threat.
+(1668289219)[Sat Nov 12 21:40:19 2022] Garn's Shout increases THEIR hate with Shaman Nas'Mhal for 2,136 threat.
+(1668289219)[Sat Nov 12 21:40:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,226 threat.
+(1668289219)[Sat Nov 12 21:40:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,884 threat.
+(1668289223)[Sat Nov 12 21:40:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,992 threat.
+(1668289224)[Sat Nov 12 21:40:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,937 threat.
+(1668289225)[Sat Nov 12 21:40:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,831 threat.
+(1668289364)[Sat Nov 12 21:42:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,975 threat.
+(1668289365)[Sat Nov 12 21:42:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,894 threat.
+(1668289366)[Sat Nov 12 21:42:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,927 threat.
+(1668289367)[Sat Nov 12 21:42:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,922 threat.
+(1668289453)[Sat Nov 12 21:44:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,833 threat.
+(1668289453)[Sat Nov 12 21:44:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,775 threat.
+(1668289454)[Sat Nov 12 21:44:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,789 threat.
+(1668289454)[Sat Nov 12 21:44:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,974 threat.
+(1668289461)[Sat Nov 12 21:44:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,195 threat.
+(1668289461)[Sat Nov 12 21:44:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,844 threat.
+(1668289463)[Sat Nov 12 21:44:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,930 threat.
+(1668289463)[Sat Nov 12 21:44:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,845 threat.
+(1668289464)[Sat Nov 12 21:44:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,914 threat.
+(1668289464)[Sat Nov 12 21:44:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,973 threat.
+(1668289465)[Sat Nov 12 21:44:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,815 threat.
+(1668289465)[Sat Nov 12 21:44:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,817 threat.
+(1668289469)[Sat Nov 12 21:44:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,794 threat.
+(1668289469)[Sat Nov 12 21:44:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,307 threat.
+(1668289470)[Sat Nov 12 21:44:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,027 threat.
+(1668289470)[Sat Nov 12 21:44:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,027 threat.
+(1668289472)[Sat Nov 12 21:44:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,028 threat.
+(1668289472)[Sat Nov 12 21:44:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,114 threat.
+(1668289475)[Sat Nov 12 21:44:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,794 threat.
+(1668289475)[Sat Nov 12 21:44:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,139 threat.
+(1668289478)[Sat Nov 12 21:44:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,834 threat.
+(1668289479)[Sat Nov 12 21:44:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,032 threat.
+(1668289480)[Sat Nov 12 21:44:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,008 threat.
+(1668289481)[Sat Nov 12 21:44:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,063 threat.
+(1668289484)[Sat Nov 12 21:44:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,242 threat.
+(1668289484)[Sat Nov 12 21:44:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,147 threat.
+(1668289485)[Sat Nov 12 21:44:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,149 threat.
+(1668289485)[Sat Nov 12 21:44:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,058 threat.
+(1668289497)[Sat Nov 12 21:44:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,662 threat.
+(1668289497)[Sat Nov 12 21:44:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,123 threat.
+(1668289497)[Sat Nov 12 21:44:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,262 threat.
+(1668289498)[Sat Nov 12 21:44:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,903 threat.
+(1668289498)[Sat Nov 12 21:44:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,134 threat.
+(1668289498)[Sat Nov 12 21:44:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,303 threat.
+(1668289499)[Sat Nov 12 21:44:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,975 threat.
+(1668289499)[Sat Nov 12 21:44:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,294 threat.
+(1668289499)[Sat Nov 12 21:44:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,027 threat.
+(1668289501)[Sat Nov 12 21:45:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,845 threat.
+(1668289501)[Sat Nov 12 21:45:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,443 threat.
+(1668289506)[Sat Nov 12 21:45:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,288 threat.
+(1668289509)[Sat Nov 12 21:45:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,866 threat.
+(1668289510)[Sat Nov 12 21:45:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,995 threat.
+(1668289511)[Sat Nov 12 21:45:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,035 threat.
+(1668289516)[Sat Nov 12 21:45:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,201 threat.
+(1668289516)[Sat Nov 12 21:45:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,195 threat.
+(1668289520)[Sat Nov 12 21:45:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,040 threat.
+(1668289521)[Sat Nov 12 21:45:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,005 threat.
+(1668289523)[Sat Nov 12 21:45:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,050 threat.
+(1668289523)[Sat Nov 12 21:45:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,272 threat.
+(1668289526)[Sat Nov 12 21:45:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,101 threat.
+(1668289530)[Sat Nov 12 21:45:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,256 threat.
+(1668289685)[Sat Nov 12 21:48:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,785 threat.
+(1668289685)[Sat Nov 12 21:48:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,918 threat.
+(1668289686)[Sat Nov 12 21:48:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,967 threat.
+(1668289686)[Sat Nov 12 21:48:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,825 threat.
+(1668289688)[Sat Nov 12 21:48:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,947 threat.
+(1668289688)[Sat Nov 12 21:48:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for a critical of 2,726 threat.
+(1668289691)[Sat Nov 12 21:48:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,859 threat.
+(1668289691)[Sat Nov 12 21:48:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for a critical of 3,011 threat.
+(1668289691)[Sat Nov 12 21:48:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,784 threat.
+(1668289691)[Sat Nov 12 21:48:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,178 threat.
+(1668289695)[Sat Nov 12 21:48:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,980 threat.
+(1668289695)[Sat Nov 12 21:48:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,824 threat.
+(1668289698)[Sat Nov 12 21:48:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,910 threat.
+(1668289700)[Sat Nov 12 21:48:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,051 threat.
+(1668289702)[Sat Nov 12 21:48:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,179 threat.
+(1668289704)[Sat Nov 12 21:48:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,214 threat.
+(1668289704)[Sat Nov 12 21:48:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,057 threat.
+(1668289705)[Sat Nov 12 21:48:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,250 threat.
+(1668289705)[Sat Nov 12 21:48:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,121 threat.
+(1668289706)[Sat Nov 12 21:48:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,016 threat.
+(1668289706)[Sat Nov 12 21:48:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,028 threat.
+(1668289708)[Sat Nov 12 21:48:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,288 threat.
+(1668289710)[Sat Nov 12 21:48:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,022 threat.
+(1668289711)[Sat Nov 12 21:48:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,186 threat.
+(1668289713)[Sat Nov 12 21:48:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,170 threat.
+(1668289715)[Sat Nov 12 21:48:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,091 threat.
+(1668289951)[Sat Nov 12 21:52:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,780 threat.
+(1668289952)[Sat Nov 12 21:52:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,969 threat.
+(1668289953)[Sat Nov 12 21:52:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,978 threat.
+(1668289954)[Sat Nov 12 21:52:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,940 threat.
+(1668289955)[Sat Nov 12 21:52:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,942 threat.
+(1668290001)[Sat Nov 12 21:53:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,941 threat.
+(1668290001)[Sat Nov 12 21:53:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,904 threat.
+(1668290002)[Sat Nov 12 21:53:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,789 threat.
+(1668290002)[Sat Nov 12 21:53:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,030 threat.
+(1668290004)[Sat Nov 12 21:53:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,871 threat.
+(1668290004)[Sat Nov 12 21:53:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,156 threat.
+(1668290004)[Sat Nov 12 21:53:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,963 threat.
+(1668290004)[Sat Nov 12 21:53:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,300 threat.
+(1668290005)[Sat Nov 12 21:53:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,863 threat.
+(1668290005)[Sat Nov 12 21:53:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,096 threat.
+(1668290008)[Sat Nov 12 21:53:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,003 threat.
+(1668290008)[Sat Nov 12 21:53:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,021 threat.
+(1668290009)[Sat Nov 12 21:53:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,125 threat.
+(1668290009)[Sat Nov 12 21:53:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,995 threat.
+(1668290012)[Sat Nov 12 21:53:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,094 threat.
+(1668290012)[Sat Nov 12 21:53:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,882 threat.
+(1668290013)[Sat Nov 12 21:53:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,837 threat.
+(1668290017)[Sat Nov 12 21:53:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,916 threat.
+(1668290018)[Sat Nov 12 21:53:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,843 threat.
+(1668290022)[Sat Nov 12 21:53:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,975 threat.
+(1668290027)[Sat Nov 12 21:53:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,007 threat.
+(1668290027)[Sat Nov 12 21:53:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,420 threat.
+(1668290027)[Sat Nov 12 21:53:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,112 threat.
+(1668290029)[Sat Nov 12 21:53:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,208 threat.
+(1668290029)[Sat Nov 12 21:53:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,142 threat.
+(1668290029)[Sat Nov 12 21:53:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,180 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,000 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,118 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,104 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,216 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,064 threat.
+(1668290030)[Sat Nov 12 21:53:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,094 threat.
+(1668290033)[Sat Nov 12 21:53:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,205 threat.
+(1668290033)[Sat Nov 12 21:53:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,001 threat.
+(1668290036)[Sat Nov 12 21:53:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,123 threat.
+(1668290036)[Sat Nov 12 21:53:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,195 threat.
+(1668290037)[Sat Nov 12 21:53:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,122 threat.
+(1668290037)[Sat Nov 12 21:53:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,062 threat.
+(1668290038)[Sat Nov 12 21:53:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,295 threat.
+(1668290038)[Sat Nov 12 21:53:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,992 threat.
+(1668290041)[Sat Nov 12 21:54:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,010 threat.
+(1668290041)[Sat Nov 12 21:54:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,165 threat.
+(1668290044)[Sat Nov 12 21:54:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,044 threat.
+(1668290044)[Sat Nov 12 21:54:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,999 threat.
+(1668290045)[Sat Nov 12 21:54:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,300 threat.
+(1668290045)[Sat Nov 12 21:54:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,027 threat.
+(1668290047)[Sat Nov 12 21:54:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,137 threat.
+(1668290048)[Sat Nov 12 21:54:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,828 threat.
+(1668290051)[Sat Nov 12 21:54:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,257 threat.
+(1668290051)[Sat Nov 12 21:54:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,086 threat.
+(1668290052)[Sat Nov 12 21:54:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,936 threat.
+(1668290053)[Sat Nov 12 21:54:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,837 threat.
+(1668290054)[Sat Nov 12 21:54:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,050 threat.
+(1668290059)[Sat Nov 12 21:54:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,186 threat.
+(1668290060)[Sat Nov 12 21:54:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,016 threat.
+(1668290062)[Sat Nov 12 21:54:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,178 threat.
+(1668290073)[Sat Nov 12 21:54:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,276 threat.
+(1668290075)[Sat Nov 12 21:54:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,781 threat.
+(1668290076)[Sat Nov 12 21:54:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,892 threat.
+(1668290078)[Sat Nov 12 21:54:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,935 threat.
+(1668290080)[Sat Nov 12 21:54:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,873 threat.
+(1668290082)[Sat Nov 12 21:54:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,237 threat.
+(1668290086)[Sat Nov 12 21:54:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,904 threat.
+(1668290087)[Sat Nov 12 21:54:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,860 threat.
+(1668290102)[Sat Nov 12 21:55:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,847 threat.
+(1668290102)[Sat Nov 12 21:55:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,995 threat.
+(1668290103)[Sat Nov 12 21:55:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,883 threat.
+(1668290103)[Sat Nov 12 21:55:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,902 threat.
+(1668290104)[Sat Nov 12 21:55:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,018 threat.
+(1668290104)[Sat Nov 12 21:55:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,922 threat.
+(1668290136)[Sat Nov 12 21:55:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,885 threat.
+(1668290136)[Sat Nov 12 21:55:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,961 threat.
+(1668290136)[Sat Nov 12 21:55:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,184 threat.
+(1668290137)[Sat Nov 12 21:55:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,766 threat.
+(1668290137)[Sat Nov 12 21:55:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,784 threat.
+(1668290137)[Sat Nov 12 21:55:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,246 threat.
+(1668290137)[Sat Nov 12 21:55:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,996 threat.
+(1668290137)[Sat Nov 12 21:55:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,961 threat.
+(1668290139)[Sat Nov 12 21:55:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,052 threat.
+(1668290139)[Sat Nov 12 21:55:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,038 threat.
+(1668290140)[Sat Nov 12 21:55:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,269 threat.
+(1668290140)[Sat Nov 12 21:55:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,267 threat.
+(1668290140)[Sat Nov 12 21:55:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,354 threat.
+(1668290143)[Sat Nov 12 21:55:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,288 threat.
+(1668290143)[Sat Nov 12 21:55:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,032 threat.
+(1668290143)[Sat Nov 12 21:55:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,095 threat.
+(1668290144)[Sat Nov 12 21:55:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,396 threat.
+(1668290144)[Sat Nov 12 21:55:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,889 threat.
+(1668290144)[Sat Nov 12 21:55:44 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,197 threat.
+(1668290147)[Sat Nov 12 21:55:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,254 threat.
+(1668290147)[Sat Nov 12 21:55:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,839 threat.
+(1668290147)[Sat Nov 12 21:55:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,060 threat.
+(1668290150)[Sat Nov 12 21:55:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,252 threat.
+(1668290150)[Sat Nov 12 21:55:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,831 threat.
+(1668290150)[Sat Nov 12 21:55:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,198 threat.
+(1668290151)[Sat Nov 12 21:55:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,106 threat.
+(1668290151)[Sat Nov 12 21:55:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,822 threat.
+(1668290152)[Sat Nov 12 21:55:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,187 threat.
+(1668290154)[Sat Nov 12 21:55:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,203 threat.
+(1668290154)[Sat Nov 12 21:55:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,259 threat.
+(1668290159)[Sat Nov 12 21:55:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,038 threat.
+(1668290159)[Sat Nov 12 21:55:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,235 threat.
+(1668290161)[Sat Nov 12 21:56:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,183 threat.
+(1668290161)[Sat Nov 12 21:56:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,308 threat.
+(1668290162)[Sat Nov 12 21:56:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,249 threat.
+(1668290162)[Sat Nov 12 21:56:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,161 threat.
+(1668290163)[Sat Nov 12 21:56:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,104 threat.
+(1668290163)[Sat Nov 12 21:56:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,241 threat.
+(1668290169)[Sat Nov 12 21:56:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,247 threat.
+(1668290170)[Sat Nov 12 21:56:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,037 threat.
+(1668290174)[Sat Nov 12 21:56:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,049 threat.
+(1668290174)[Sat Nov 12 21:56:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,002 threat.
+(1668290174)[Sat Nov 12 21:56:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,076 threat.
+(1668290174)[Sat Nov 12 21:56:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,166 threat.
+(1668290176)[Sat Nov 12 21:56:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,123 threat.
+(1668290178)[Sat Nov 12 21:56:18 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,861 threat.
+(1668290179)[Sat Nov 12 21:56:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,048 threat.
+(1668290182)[Sat Nov 12 21:56:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,881 threat.
+(1668290362)[Sat Nov 12 21:59:22 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for a critical of 3,005 threat.
+(1668290362)[Sat Nov 12 21:59:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,888 threat.
+(1668290362)[Sat Nov 12 21:59:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,985 threat.
+(1668290363)[Sat Nov 12 21:59:23 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,285 threat.
+(1668290363)[Sat Nov 12 21:59:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,236 threat.
+(1668290363)[Sat Nov 12 21:59:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,934 threat.
+(1668290364)[Sat Nov 12 21:59:24 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,004 threat.
+(1668290364)[Sat Nov 12 21:59:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,188 threat.
+(1668290364)[Sat Nov 12 21:59:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,827 threat.
+(1668290364)[Sat Nov 12 21:59:24 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,207 threat.
+(1668290364)[Sat Nov 12 21:59:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,034 threat.
+(1668290365)[Sat Nov 12 21:59:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,050 threat.
+(1668290365)[Sat Nov 12 21:59:25 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,073 threat.
+(1668290365)[Sat Nov 12 21:59:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,070 threat.
+(1668290365)[Sat Nov 12 21:59:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,843 threat.
+(1668290366)[Sat Nov 12 21:59:26 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,145 threat.
+(1668290366)[Sat Nov 12 21:59:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,187 threat.
+(1668290367)[Sat Nov 12 21:59:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,881 threat.
+(1668290368)[Sat Nov 12 21:59:28 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,004 threat.
+(1668290368)[Sat Nov 12 21:59:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,122 threat.
+(1668290368)[Sat Nov 12 21:59:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,837 threat.
+(1668290373)[Sat Nov 12 21:59:33 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,100 threat.
+(1668290373)[Sat Nov 12 21:59:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,166 threat.
+(1668290373)[Sat Nov 12 21:59:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,784 threat.
+(1668290382)[Sat Nov 12 21:59:42 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,043 threat.
+(1668290382)[Sat Nov 12 21:59:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,872 threat.
+(1668290383)[Sat Nov 12 21:59:43 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,155 threat.
+(1668290383)[Sat Nov 12 21:59:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,966 threat.
+(1668290388)[Sat Nov 12 21:59:48 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,122 threat.
+(1668290388)[Sat Nov 12 21:59:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,863 threat.
+(1668290388)[Sat Nov 12 21:59:48 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,041 threat.
+(1668290388)[Sat Nov 12 21:59:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,788 threat.
+(1668290396)[Sat Nov 12 21:59:56 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for a critical of 3,247 threat.
+(1668290396)[Sat Nov 12 21:59:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,878 threat.
+(1668290396)[Sat Nov 12 21:59:56 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,084 threat.
+(1668290396)[Sat Nov 12 21:59:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,841 threat.
+(1668290400)[Sat Nov 12 22:00:00 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,223 threat.
+(1668290400)[Sat Nov 12 22:00:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,009 threat.
+(1668290401)[Sat Nov 12 22:00:01 2022] Garn's Shout increases THEIR hate with Trooper Gar'Tan for 2,095 threat.
+(1668290401)[Sat Nov 12 22:00:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,785 threat.
+(1668290404)[Sat Nov 12 22:00:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,242 threat.
+(1668290404)[Sat Nov 12 22:00:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,202 threat.
+(1668290410)[Sat Nov 12 22:00:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,076 threat.
+(1668290410)[Sat Nov 12 22:00:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,307 threat.
+(1668290410)[Sat Nov 12 22:00:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,164 threat.
+(1668290411)[Sat Nov 12 22:00:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,268 threat.
+(1668290415)[Sat Nov 12 22:00:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,275 threat.
+(1668290419)[Sat Nov 12 22:00:19 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,981 threat.
+(1668290421)[Sat Nov 12 22:00:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,005 threat.
+(1668290423)[Sat Nov 12 22:00:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,884 threat.
+(1668290423)[Sat Nov 12 22:00:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,895 threat.
+(1668290644)[Sat Nov 12 22:04:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,856 threat.
+(1668290645)[Sat Nov 12 22:04:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,776 threat.
+(1668290646)[Sat Nov 12 22:04:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,959 threat.
+(1668290650)[Sat Nov 12 22:04:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,181 threat.
+(1668290650)[Sat Nov 12 22:04:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,980 threat.
+(1668290651)[Sat Nov 12 22:04:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,188 threat.
+(1668290651)[Sat Nov 12 22:04:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,787 threat.
+(1668290652)[Sat Nov 12 22:04:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,174 threat.
+(1668290652)[Sat Nov 12 22:04:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,835 threat.
+(1668290691)[Sat Nov 12 22:04:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,039 threat.
+(1668290691)[Sat Nov 12 22:04:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,313 threat.
+(1668290691)[Sat Nov 12 22:04:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,070 threat.
+(1668290691)[Sat Nov 12 22:04:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,025 threat.
+(1668290694)[Sat Nov 12 22:04:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,274 threat.
+(1668290694)[Sat Nov 12 22:04:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,106 threat.
+(1668290694)[Sat Nov 12 22:04:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,814 threat.
+(1668290696)[Sat Nov 12 22:04:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,027 threat.
+(1668290696)[Sat Nov 12 22:04:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,281 threat.
+(1668290696)[Sat Nov 12 22:04:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,944 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,223 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,047 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,902 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,013 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,078 threat.
+(1668290697)[Sat Nov 12 22:04:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,823 threat.
+(1668290707)[Sat Nov 12 22:05:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,239 threat.
+(1668290707)[Sat Nov 12 22:05:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,943 threat.
+(1668290708)[Sat Nov 12 22:05:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,251 threat.
+(1668290708)[Sat Nov 12 22:05:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,934 threat.
+(1668290709)[Sat Nov 12 22:05:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,271 threat.
+(1668290709)[Sat Nov 12 22:05:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,928 threat.
+(1668290713)[Sat Nov 12 22:05:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,194 threat.
+(1668290713)[Sat Nov 12 22:05:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,002 threat.
+(1668290716)[Sat Nov 12 22:05:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,260 threat.
+(1668290726)[Sat Nov 12 22:05:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,241 threat.
+(1668290729)[Sat Nov 12 22:05:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,223 threat.
+(1668290731)[Sat Nov 12 22:05:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,169 threat.
+(1668290731)[Sat Nov 12 22:05:31 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,834 threat.
+(1668290735)[Sat Nov 12 22:05:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,068 threat.
+(1668290735)[Sat Nov 12 22:05:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,080 threat.
+(1668290739)[Sat Nov 12 22:05:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,147 threat.
+(1668290739)[Sat Nov 12 22:05:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,048 threat.
+(1668290740)[Sat Nov 12 22:05:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,994 threat.
+(1668290740)[Sat Nov 12 22:05:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,181 threat.
+(1668290743)[Sat Nov 12 22:05:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,995 threat.
+(1668290747)[Sat Nov 12 22:05:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,889 threat.
+(1668290748)[Sat Nov 12 22:05:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,823 threat.
+(1668290750)[Sat Nov 12 22:05:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,970 threat.
+(1668290752)[Sat Nov 12 22:05:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,863 threat.
+(1668290753)[Sat Nov 12 22:05:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,931 threat.
+(1668290754)[Sat Nov 12 22:05:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,880 threat.
+(1668290757)[Sat Nov 12 22:05:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,989 threat.
+(1668290758)[Sat Nov 12 22:05:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,207 threat.
+(1668290760)[Sat Nov 12 22:06:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,054 threat.
+(1668291133)[Sat Nov 12 22:12:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,991 threat.
+(1668291133)[Sat Nov 12 22:12:13 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,241 threat.
+(1668291134)[Sat Nov 12 22:12:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,898 threat.
+(1668291134)[Sat Nov 12 22:12:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,060 threat.
+(1668291135)[Sat Nov 12 22:12:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,768 threat.
+(1668291135)[Sat Nov 12 22:12:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,258 threat.
+(1668291137)[Sat Nov 12 22:12:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,208 threat.
+(1668291137)[Sat Nov 12 22:12:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,976 threat.
+(1668291144)[Sat Nov 12 22:12:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,141 threat.
+(1668291144)[Sat Nov 12 22:12:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 2,742 threat.
+(1668291146)[Sat Nov 12 22:12:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,183 threat.
+(1668291146)[Sat Nov 12 22:12:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,029 threat.
+(1668291149)[Sat Nov 12 22:12:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,406 threat.
+(1668291149)[Sat Nov 12 22:12:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,025 threat.
+(1668291156)[Sat Nov 12 22:12:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,157 threat.
+(1668291156)[Sat Nov 12 22:12:36 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,119 threat.
+(1668291157)[Sat Nov 12 22:12:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,111 threat.
+(1668291157)[Sat Nov 12 22:12:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,067 threat.
+(1668291162)[Sat Nov 12 22:12:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,078 threat.
+(1668291162)[Sat Nov 12 22:12:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,090 threat.
+(1668291163)[Sat Nov 12 22:12:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,149 threat.
+(1668291163)[Sat Nov 12 22:12:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,244 threat.
+(1668291165)[Sat Nov 12 22:12:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,283 threat.
+(1668291170)[Sat Nov 12 22:12:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,796 threat.
+(1668291170)[Sat Nov 12 22:12:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,961 threat.
+(1668291173)[Sat Nov 12 22:12:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,229 threat.
+(1668291174)[Sat Nov 12 22:12:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,226 threat.
+(1668291177)[Sat Nov 12 22:12:57 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,200 threat.
+(1668291180)[Sat Nov 12 22:13:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,968 threat.
+(1668291181)[Sat Nov 12 22:13:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,956 threat.
+(1668291183)[Sat Nov 12 22:13:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,090 threat.
+(1668291186)[Sat Nov 12 22:13:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,161 threat.
+(1668291191)[Sat Nov 12 22:13:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,021 threat.
+(1668291194)[Sat Nov 12 22:13:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,267 threat.
+(1668291205)[Sat Nov 12 22:13:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,992 threat.
+(1668291206)[Sat Nov 12 22:13:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,010 threat.
+(1668291207)[Sat Nov 12 22:13:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 2,877 threat.
+(1668291776)[Sat Nov 12 22:22:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,882 threat.
+(1668291776)[Sat Nov 12 22:22:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,922 threat.
+(1668291778)[Sat Nov 12 22:22:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,921 threat.
+(1668291778)[Sat Nov 12 22:22:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,978 threat.
+(1668291780)[Sat Nov 12 22:23:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,788 threat.
+(1668291780)[Sat Nov 12 22:23:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,990 threat.
+(1668291784)[Sat Nov 12 22:23:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,855 threat.
+(1668291785)[Sat Nov 12 22:23:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,765 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,808 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,969 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,926 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,888 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,967 threat.
+(1668291806)[Sat Nov 12 22:23:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,024 threat.
+(1668291807)[Sat Nov 12 22:23:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,999 threat.
+(1668291807)[Sat Nov 12 22:23:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,943 threat.
+(1668291810)[Sat Nov 12 22:23:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,184 threat.
+(1668291810)[Sat Nov 12 22:23:30 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,930 threat.
+(1668291815)[Sat Nov 12 22:23:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,253 threat.
+(1668291815)[Sat Nov 12 22:23:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,985 threat.
+(1668291817)[Sat Nov 12 22:23:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,014 threat.
+(1668291819)[Sat Nov 12 22:23:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,112 threat.
+(1668291821)[Sat Nov 12 22:23:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,181 threat.
+(1668291825)[Sat Nov 12 22:23:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,015 threat.
+(1668291825)[Sat Nov 12 22:23:45 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,897 threat.
+(1668291826)[Sat Nov 12 22:23:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 3,115 threat.
+(1668291826)[Sat Nov 12 22:23:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,031 threat.
+(1668291827)[Sat Nov 12 22:23:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,201 threat.
+(1668291827)[Sat Nov 12 22:23:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,945 threat.
+(1668291832)[Sat Nov 12 22:23:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,064 threat.
+(1668291833)[Sat Nov 12 22:23:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,783 threat.
+(1668291836)[Sat Nov 12 22:23:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,272 threat.
+(1668291836)[Sat Nov 12 22:23:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,943 threat.
+(1668291840)[Sat Nov 12 22:24:00 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,006 threat.
+(1668291843)[Sat Nov 12 22:24:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,279 threat.
+(1668291845)[Sat Nov 12 22:24:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,007 threat.
+(1668291845)[Sat Nov 12 22:24:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 1,983 threat.
+(1668291848)[Sat Nov 12 22:24:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,277 threat.
+(1668291848)[Sat Nov 12 22:24:08 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,165 threat.
+(1668291849)[Sat Nov 12 22:24:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,136 threat.
+(1668291849)[Sat Nov 12 22:24:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,188 threat.
+(1668291851)[Sat Nov 12 22:24:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,086 threat.
+(1668291852)[Sat Nov 12 22:24:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for a critical of 3,453 threat.
+(1668291855)[Sat Nov 12 22:24:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,140 threat.
+(1668291855)[Sat Nov 12 22:24:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler diviner for 2,262 threat.
+(1668291860)[Sat Nov 12 22:24:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,257 threat.
+(1668291860)[Sat Nov 12 22:24:20 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,226 threat.
+(1668291865)[Sat Nov 12 22:24:25 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,186 threat.
+(1668291866)[Sat Nov 12 22:24:26 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,906 threat.
+(1668291868)[Sat Nov 12 22:24:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,064 threat.
+(1668291872)[Sat Nov 12 22:24:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,022 threat.
+(1668291874)[Sat Nov 12 22:24:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,220 threat.
+(1668291875)[Sat Nov 12 22:24:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,016 threat.
+(1668291881)[Sat Nov 12 22:24:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,015 threat.
+(1668291882)[Sat Nov 12 22:24:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,047 threat.
+(1668291883)[Sat Nov 12 22:24:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,204 threat.
+(1668291902)[Sat Nov 12 22:25:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,808 threat.
+(1668291903)[Sat Nov 12 22:25:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,979 threat.
+(1668291904)[Sat Nov 12 22:25:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,011 threat.
+(1668291904)[Sat Nov 12 22:25:04 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,819 threat.
+(1668291974)[Sat Nov 12 22:26:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,898 threat.
+(1668291976)[Sat Nov 12 22:26:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,039 threat.
+(1668291976)[Sat Nov 12 22:26:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for a critical of 2,915 threat.
+(1668291981)[Sat Nov 12 22:26:21 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,144 threat.
+(1668291982)[Sat Nov 12 22:26:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,873 threat.
+(1668291982)[Sat Nov 12 22:26:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,996 threat.
+(1668291987)[Sat Nov 12 22:26:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,270 threat.
+(1668291988)[Sat Nov 12 22:26:28 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,098 threat.
+(1668291989)[Sat Nov 12 22:26:29 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,009 threat.
+(1668291992)[Sat Nov 12 22:26:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 3,367 threat.
+(1668291997)[Sat Nov 12 22:26:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,200 threat.
+(1668291998)[Sat Nov 12 22:26:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,095 threat.
+(1668291999)[Sat Nov 12 22:26:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,125 threat.
+(1668292002)[Sat Nov 12 22:26:42 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,003 threat.
+(1668292003)[Sat Nov 12 22:26:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,287 threat.
+(1668292003)[Sat Nov 12 22:26:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,098 threat.
+(1668292003)[Sat Nov 12 22:26:43 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,367 threat.
+(1668292008)[Sat Nov 12 22:26:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,024 threat.
+(1668292008)[Sat Nov 12 22:26:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,934 threat.
+(1668292010)[Sat Nov 12 22:26:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,821 threat.
+(1668292010)[Sat Nov 12 22:26:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,949 threat.
+(1668292015)[Sat Nov 12 22:26:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,979 threat.
+(1668292015)[Sat Nov 12 22:26:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,903 threat.
+(1668292016)[Sat Nov 12 22:26:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,971 threat.
+(1668292016)[Sat Nov 12 22:26:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,256 threat.
+(1668292021)[Sat Nov 12 22:27:01 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,973 threat.
+(1668292023)[Sat Nov 12 22:27:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,208 threat.
+(1668292025)[Sat Nov 12 22:27:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,920 threat.
+(1668292027)[Sat Nov 12 22:27:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,868 threat.
+(1668292477)[Sat Nov 12 22:34:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,142 threat.
+(1668292477)[Sat Nov 12 22:34:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,183 threat.
+(1668292478)[Sat Nov 12 22:34:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,185 threat.
+(1668292478)[Sat Nov 12 22:34:38 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,418 threat.
+(1668292479)[Sat Nov 12 22:34:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,113 threat.
+(1668292479)[Sat Nov 12 22:34:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,896 threat.
+(1668292480)[Sat Nov 12 22:34:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,036 threat.
+(1668292480)[Sat Nov 12 22:34:40 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,899 threat.
+(1668292481)[Sat Nov 12 22:34:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,015 threat.
+(1668292481)[Sat Nov 12 22:34:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,793 threat.
+(1668292490)[Sat Nov 12 22:34:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,040 threat.
+(1668292490)[Sat Nov 12 22:34:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,416 threat.
+(1668292490)[Sat Nov 12 22:34:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,294 threat.
+(1668292491)[Sat Nov 12 22:34:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,250 threat.
+(1668292491)[Sat Nov 12 22:34:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,239 threat.
+(1668292491)[Sat Nov 12 22:34:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,998 threat.
+(1668292493)[Sat Nov 12 22:34:53 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,349 threat.
+(1668292498)[Sat Nov 12 22:34:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,066 threat.
+(1668292499)[Sat Nov 12 22:34:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,015 threat.
+(1668292502)[Sat Nov 12 22:35:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,050 threat.
+(1668292503)[Sat Nov 12 22:35:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,281 threat.
+(1668292503)[Sat Nov 12 22:35:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,136 threat.
+(1668292503)[Sat Nov 12 22:35:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,234 threat.
+(1668292507)[Sat Nov 12 22:35:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,199 threat.
+(1668292507)[Sat Nov 12 22:35:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,021 threat.
+(1668292507)[Sat Nov 12 22:35:07 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,029 threat.
+(1668292512)[Sat Nov 12 22:35:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,161 threat.
+(1668292514)[Sat Nov 12 22:35:14 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,029 threat.
+(1668292517)[Sat Nov 12 22:35:17 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,308 threat.
+(1668292522)[Sat Nov 12 22:35:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,847 threat.
+(1668292522)[Sat Nov 12 22:35:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,361 threat.
+(1668292522)[Sat Nov 12 22:35:22 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,001 threat.
+(1668292523)[Sat Nov 12 22:35:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,865 threat.
+(1668292523)[Sat Nov 12 22:35:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,099 threat.
+(1668292523)[Sat Nov 12 22:35:23 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,902 threat.
+(1668292524)[Sat Nov 12 22:35:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 2,982 threat.
+(1668292524)[Sat Nov 12 22:35:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,227 threat.
+(1668292524)[Sat Nov 12 22:35:24 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,826 threat.
+(1668292527)[Sat Nov 12 22:35:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 2,850 threat.
+(1668292527)[Sat Nov 12 22:35:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,120 threat.
+(1668292527)[Sat Nov 12 22:35:27 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,021 threat.
+(1668292532)[Sat Nov 12 22:35:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,079 threat.
+(1668292532)[Sat Nov 12 22:35:32 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,032 threat.
+(1668292537)[Sat Nov 12 22:35:37 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,939 threat.
+(1668292539)[Sat Nov 12 22:35:39 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for a critical of 2,803 threat.
+(1668292541)[Sat Nov 12 22:35:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,042 threat.
+(1668292541)[Sat Nov 12 22:35:41 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,285 threat.
+(1668292548)[Sat Nov 12 22:35:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,021 threat.
+(1668292548)[Sat Nov 12 22:35:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,933 threat.
+(1668292549)[Sat Nov 12 22:35:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,002 threat.
+(1668292549)[Sat Nov 12 22:35:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,790 threat.
+(1668292550)[Sat Nov 12 22:35:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,252 threat.
+(1668292550)[Sat Nov 12 22:35:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 1,894 threat.
+(1668292552)[Sat Nov 12 22:35:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,876 threat.
+(1668292554)[Sat Nov 12 22:35:54 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,077 threat.
+(1668292558)[Sat Nov 12 22:35:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,063 threat.
+(1668292559)[Sat Nov 12 22:35:59 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,299 threat.
+(1668292562)[Sat Nov 12 22:36:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,157 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler shamanite for 12,488 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler shamanite for 12,488 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler miner for 14,101 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler trooper for 12,488 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler bandit for 12,488 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Bracket's Brambles IV reduces THEIR hate with a Sandscrawler trooper for 12,488 threat.
+(1668292563)[Sat Nov 12 22:36:03 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,245 threat.
+(1668292565)[Sat Nov 12 22:36:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,072 threat.
+(1668292565)[Sat Nov 12 22:36:05 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,383 threat.
+(1668292566)[Sat Nov 12 22:36:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for a critical of 3,177 threat.
+(1668292566)[Sat Nov 12 22:36:06 2022] Garn's Shout increases THEIR hate with a Sandscrawler miner for 2,218 threat.
+(1668292569)[Sat Nov 12 22:36:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,065 threat.
+(1668292571)[Sat Nov 12 22:36:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,232 threat.
+(1668292575)[Sat Nov 12 22:36:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,024 threat.
+(1668292575)[Sat Nov 12 22:36:15 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,101 threat.
+(1668292576)[Sat Nov 12 22:36:16 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,290 threat.
+(1668292607)[Sat Nov 12 22:36:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,833 threat.
+(1668292607)[Sat Nov 12 22:36:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,790 threat.
+(1668292610)[Sat Nov 12 22:36:50 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,973 threat.
+(1668292612)[Sat Nov 12 22:36:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,799 threat.
+(1668292612)[Sat Nov 12 22:36:52 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 1,827 threat.
+(1668292616)[Sat Nov 12 22:36:56 2022] Garn's Shout increases THEIR hate with a Sandscrawler shamanite for 2,123 threat.
+(1668292653)[Sat Nov 12 22:37:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,916 threat.
+(1668292653)[Sat Nov 12 22:37:33 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,971 threat.
+(1668292654)[Sat Nov 12 22:37:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,994 threat.
+(1668292654)[Sat Nov 12 22:37:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,819 threat.
+(1668292654)[Sat Nov 12 22:37:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,813 threat.
+(1668292654)[Sat Nov 12 22:37:34 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,238 threat.
+(1668292655)[Sat Nov 12 22:37:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,005 threat.
+(1668292655)[Sat Nov 12 22:37:35 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,128 threat.
+(1668292666)[Sat Nov 12 22:37:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,203 threat.
+(1668292666)[Sat Nov 12 22:37:46 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,026 threat.
+(1668292667)[Sat Nov 12 22:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,163 threat.
+(1668292667)[Sat Nov 12 22:37:47 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,939 threat.
+(1668292668)[Sat Nov 12 22:37:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,077 threat.
+(1668292668)[Sat Nov 12 22:37:48 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,854 threat.
+(1668292669)[Sat Nov 12 22:37:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,275 threat.
+(1668292669)[Sat Nov 12 22:37:49 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,811 threat.
+(1668292671)[Sat Nov 12 22:37:51 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,239 threat.
+(1668292675)[Sat Nov 12 22:37:55 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 1,995 threat.
+(1668292678)[Sat Nov 12 22:37:58 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,202 threat.
+(1668292682)[Sat Nov 12 22:38:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for 2,010 threat.
+(1668292682)[Sat Nov 12 22:38:02 2022] Garn's Shout increases THEIR hate with a Sandscrawler trooper for a critical of 3,445 threat.
+(1668292689)[Sat Nov 12 22:38:09 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,236 threat.
+(1668292690)[Sat Nov 12 22:38:10 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 2,030 threat.
+(1668292691)[Sat Nov 12 22:38:11 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,971 threat.
+(1668292692)[Sat Nov 12 22:38:12 2022] Garn's Shout increases THEIR hate with a Sandscrawler bandit for 1,933 threat.

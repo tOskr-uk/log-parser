@@ -1,0 +1,24 @@
+{
+  "name": "eq2-parser",
+  "version": "1.0.0",
+  "description": "An application to parse the EQ2 log file and extract key data for performance analysis.",
+  "main": "app copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tOskr-uk/EQ2-Parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tOskr-uk/EQ2-Parser/issues"
+  },
+  "homepage": "https://github.com/tOskr-uk/EQ2-Parser#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

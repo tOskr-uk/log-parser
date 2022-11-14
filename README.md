@@ -73,9 +73,19 @@ _|Check a players pet with the same name as the player is parsed by their name a
 Done |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|export.js module created to to this. Added optional params that default to the test environment. See module for details|
 _|Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included. Maybe check other parsers see if this works... ||
 _|Replace the readFileSync method with async version to address processing time issues with busy log (Live file processing on large log file with 66k entries, over 6 million chars currently takes 1300ms. Need to monitor manualy and adjust the interval value to better accomodate the processing time until async methods are tested. need to investigate methods to improve on this if its posible) ||
-_|||
+_|Need to accomodate riposte damage. I dont currently have any log data showing this event type but from what I have seen the riposte event and the damage associated with it are on seperate entries. See sample below. Need to look into it and accomodate it.  ||
 
     
 
 
+riposte event...
 
+(1668106272)[Thu Nov 10 19:51:12 2022] a sandfang prowler tries to slash X, but Y ripostes.
+
+(1668106272)[Thu Nov 10 19:51:12 2022] Y hits a sandfang prowler for 160 piercing damage.
+
+another event...
+
+(1668106361)[Thu Nov 10 19:52:41 2022] Y tries to crush a Dunefury mystic, but a Dunefury mystic ripostes. 
+
+(1668106361)[Thu Nov 10 19:52:41 2022] a Dunefury mystic hits Y for 235 slashing damage.
