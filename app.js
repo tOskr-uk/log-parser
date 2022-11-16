@@ -1,9 +1,16 @@
 'use strict';
 
+// 1) Monitors the log file for new entries
+// 2) New entries are filtered for processing
+// 3) Data is organised into encounters
+// 4) Enccounters are saved in the db
+
+
 const fs = require('fs');
 const exportParse = require('./export');
 let timeStamp = 0;
 let encounterArray = [];
+let encounterJunk = [];
 
 
 // ---------------
@@ -31,7 +38,7 @@ let id=0
 
 
 // ----------------------------------------------------------------------------
-// MAIN FUNCTION called every time a change is detected in the sourse log file.
+// 1) Monitors the source log file for new entries 
 // ----------------------------------------------------------------------------
 const interval = 4000;
 fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
@@ -53,13 +60,11 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     });
             
 });
-        
-function getTimeStamp(str){
-    // takes an entry from the log and returns the entries timestamp
-    return parseInt(str.slice(1, 11));
-}
-        
 
+
+// ----------------------------------------------------------------------------
+// 2) New entries are filtered for processing
+// ----------------------------------------------------------------------------
 function dataFilter(arr){
     arr.forEach(e=>{
         
@@ -76,11 +81,19 @@ function dataFilter(arr){
         else if(e.includes(('tries to' && 'but' && 'blocks'))){ encounterManager(e); }
         else if(e.includes(('but YOU resist'))){ encounterManager(e); }
         else if(e.includes(('has killed a'))){ encounterManager(e); }
-        else if(e.includes(('You have entered'))){ encounterManager(e); }
-        else{};
+
+        else{
+            // temporary dump for non combat entries for analysis and verification
+            // will be removed when im sure all combat entries have been processed
+            encounterJunk.push(e);
+        };
     })
 }
 
+
+// ----------------------------------------------------------------------------
+// 3) Data is organised into encounters
+// ----------------------------------------------------------------------------
 function encounterManager(element){
     const lifeSpan = 5; // this is the delay 
     
@@ -92,16 +105,23 @@ function encounterManager(element){
         encounterArray.push(element);
     } else {
         // is a new encounter
-        // console.log(encounterArray); // <---- 
         
+        // encounter is closed and saved to db
+        // get name and duration of encounter
+
+
         fs.appendFile(`${testPath}primary.json`,JSON.stringify({data: encounterArray}, null, 2),(err, data)=>{
             if(err){console.log(err);}
             else{
                 console.log('File appended.');
             }
         } )
+
+        // encounter resets 
         encounterArray = [];
+        encounterJunk = [];
         encounterArray.push(element);
+        
     }
     timeStamp = elementTimestamp;
 
@@ -115,12 +135,9 @@ function encounterManager(element){
 
 
 }
-function parseCombatCheck(arr){
-    // checks the array param for combat indicators
-    // returns the timestamp of the first positive indicator if present 
-    // toggles the global combatStatus variable as required.
-    arr.forEach(e => {
-        console.log(e);
-    });
-    return false;
+
+
+// Takes a log entry and returns the timestamp 
+function getTimeStamp(str){
+    return parseInt(str.slice(1, 11));
 }

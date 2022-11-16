@@ -26,5 +26,6 @@ const exportToFile = function(
         console.log(`Data extracted and saved to ${outputPath}${poi[i]}.txt - Process took [${end-start}ms]`);
     }
 }
-    
-module.exports = exportToFile;
+
+exportToFile();
+// module.exports = exportToFile;
