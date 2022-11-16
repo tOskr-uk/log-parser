@@ -27,5 +27,5 @@ const exportToFile = function(
     }
 }
 
-exportToFile();
+// exportToFile();
 // module.exports = exportToFile;

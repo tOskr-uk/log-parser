@@ -105,12 +105,29 @@ function encounterManager(element){
         encounterArray.push(element);
     } else {
         // is a new encounter
-        
-        // encounter is closed and saved to db
-        // get name and duration of encounter
 
+        // gets encounter duration
+        const encounterStart = getTimeStamp(encounterArray[0]); 
+        const encounterEnd = getTimeStamp(encounterArray[encounterArray.length-1]); 
+        const encounterDuration = encounterEnd-encounterStart; // seconds
+        let encounterName
 
-        fs.appendFile(`${testPath}primary.json`,JSON.stringify({data: encounterArray}, null, 2),(err, data)=>{
+        // gets encounter name
+        for(let i=0; i<=encounterArray.length;i++){
+            const el = encounterArray[i];
+            if(el.includes('YOU' && 'hit' && 'for') && el.indexOf('YOU')<el.indexOf('hit')){
+                encounterName = el.slice(el.indexOf('hit')+4,el.lastIndexOf('for')).trim();
+                break;
+            }
+        }
+
+        fs.appendFile(`${testPath}primary.json`,JSON.stringify(
+            {
+                name: encounterName,
+                duration: encounterDuration,
+                combatData: encounterArray,
+                otherData: encounterJunk
+            }, null, 2),(err, data)=>{
             if(err){console.log(err);}
             else{
                 console.log('File appended.');
