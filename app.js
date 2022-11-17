@@ -43,7 +43,7 @@ let id=0
 const interval = 4000;
 fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     const start = Date.now();
-    
+    console.log(`${Date.now()}: Poling ${read} for changes`);
     let index, record, timeStamp;
 
     // HEAVY STEP - puts the combat log into an array split by utf8 newline char 
@@ -57,18 +57,19 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
         if(startCount === index) return
         dataFilter(data.slice(startCount+1, index+1)); // +1 is to include the last record (0 based). Not to be confused with the logCalibration value 
         startCount = index;
-    });
-            
+    });            
 });
 
 
 // ----------------------------------------------------------------------------
 // 2) New entries are filtered for processing
 // ----------------------------------------------------------------------------
+
+
 function dataFilter(arr){
     arr.forEach(e=>{
         
-        // *ATTENTION* - Need a cleaner way to do this
+        // *ATTENTION* - Need a cleaner way to do these conditional checks
         // COMBAT TEST
         if(e.includes('hits a' && 'for' && 'damage')){ encounterManager(e);}
         else if(e.includes(('You start fighting'))){ encounterManager(e); }
@@ -96,6 +97,7 @@ function dataFilter(arr){
 // ----------------------------------------------------------------------------
 function encounterManager(element){
     const lifeSpan = 5; // this is the delay 
+    console.log(element);
     
     // determine which encounter it belolongs to
     const elementTimestamp = getTimeStamp(element);
@@ -113,7 +115,7 @@ function encounterManager(element){
         let encounterName
 
         // gets encounter name
-        for(let i=0; i<=encounterArray.length;i++){
+        for(let i=0; i<encounterArray.length;i++){
             const el = encounterArray[i];
             if(el.includes('YOU' && 'hit' && 'for') && el.indexOf('YOU')<el.indexOf('hit')){
                 encounterName = el.slice(el.indexOf('hit')+4,el.lastIndexOf('for')).trim();
@@ -121,13 +123,14 @@ function encounterManager(element){
             }
         }
 
-        fs.appendFile(`${testPath}primary.json`,JSON.stringify(
-            {
-                name: encounterName,
-                duration: encounterDuration,
-                combatData: encounterArray,
-                otherData: encounterJunk
-            }, null, 2),(err, data)=>{
+        const obj = {
+            name: encounterName,
+            duration: encounterDuration,
+            combatData: encounterArray,
+            otherData: encounterJunk
+        }
+
+        fs.appendFile(`${testPath}primary.json`,JSON.stringify(obj, null, 2),(err, data)=>{
             if(err){console.log(err);}
             else{
                 console.log('File appended.');
@@ -138,19 +141,8 @@ function encounterManager(element){
         encounterArray = [];
         encounterJunk = [];
         encounterArray.push(element);
-        
     }
     timeStamp = elementTimestamp;
-
-
-
-
-
-
-
-
-
-
 }
 
 
