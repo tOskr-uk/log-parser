@@ -1,0 +1,113 @@
+(1669916253)[Thu Dec  1 17:37:33 2022] You send your pet in for the attack!
+(1669916255)[Thu Dec  1 17:37:35 2022] Garn's Shout increases THEIR hate with a dervish beachcomber for 1,942 threat.
+(1669916255)[Thu Dec  1 17:37:35 2022] Garn's Aery Whip hits a dervish beachcomber for 936 cold damage.
+(1669916255)[Thu Dec  1 17:37:35 2022] a dervish beachcomber tries to crush Garn, but misses.
+(1669916255)[Thu Dec  1 17:37:35 2022] Garn hits a dervish beachcomber for 380 piercing damage.
+(1669916255)[Thu Dec  1 17:37:35 2022] Garn's Seed of Fire hits a dervish beachcomber for 80 heat damage.
+(1669916255)[Thu Dec  1 17:37:35 2022] An impairment spell is cast on A dervish beachcomber.
+(1669916255)[Thu Dec  1 17:37:35 2022] A dervish beachcomber is exposed to the elements!
+(1669916255)[Thu Dec  1 17:37:35 2022] Garn's Shout increases THEIR hate with a dervish beachcomber for 2,635 threat.
+(1669916256)[Thu Dec  1 17:37:36 2022] You strike A dervish beachcomber with a fiery explosion!
+(1669916256)[Thu Dec  1 17:37:36 2022] You start fighting.
+(1669916256)[Thu Dec  1 17:37:36 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 1,412 heat damage.
+(1669916256)[Thu Dec  1 17:37:36 2022] A dervish beachcomber is struck with a fiery explosion!
+(1669916256)[Thu Dec  1 17:37:36 2022] You cannot see your target.
+(1669916256)[Thu Dec  1 17:37:36 2022] Garn's Aery Whip hits a dervish beachcomber for 549 cold damage.
+(1669916256)[Thu Dec  1 17:37:36 2022] Garn's Galestorm hits a dervish beachcomber for 4,480 cold damage.
+(1669916256)[Thu Dec  1 17:37:36 2022] Garn's Shout increases THEIR hate with a dervish beachcomber for 2,602 threat.
+(1669916257)[Thu Dec  1 17:37:37 2022] Garn's Storm Surge hits a dervish beachcomber for 1,992 cold damage.
+(1669916257)[Thu Dec  1 17:37:37 2022] Garn's Blooming Flames hits a dervish beachcomber for 414 heat damage.
+(1669916257)[Thu Dec  1 17:37:37 2022] The flames die out.
+(1669916257)[Thu Dec  1 17:37:37 2022] A dervish beachcomber is no longer exposed to the elements.
+(1669916257)[Thu Dec  1 17:37:37 2022] You stop fighting.
+(1669916257)[Thu Dec  1 17:37:37 2022] Garn has killed a dervish beachcomber.
+(1669916257)[Thu Dec  1 17:37:37 2022] Too little too late...  Your target is already dead.
+(1669916258)[Thu Dec  1 17:37:38 2022] You loot \aITEM 528193409 280931073:Ruby Amulet\/a from the corpse of a dervish beachcomber.
+(1669916271)[Thu Dec  1 17:37:51 2022] You send your pet in for the attack!
+(1669916273)[Thu Dec  1 17:37:53 2022] You strike A dervish beachcomber with a fiery explosion!
+(1669916273)[Thu Dec  1 17:37:53 2022] You start fighting.
+(1669916273)[Thu Dec  1 17:37:53 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 1,060 heat damage.
+(1669916273)[Thu Dec  1 17:37:53 2022] A dervish beachcomber is struck with a fiery explosion!
+(1669916273)[Thu Dec  1 17:37:53 2022] \aNPC 7576485 a dervish beachcomber:a dervish beachcomber\/a says, "At last! Someone else to kill!"
+(1669916274)[Thu Dec  1 17:37:54 2022] YOU hit a dervish beachcomber for 401 crushing damage.
+(1669916274)[Thu Dec  1 17:37:54 2022] A dervish beachcomber's fists crackle with the power of lightning.
+(1669916275)[Thu Dec  1 17:37:55 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916276)[Thu Dec  1 17:37:56 2022] You summon piercing elemental energy.
+(1669916276)[Thu Dec  1 17:37:56 2022] YOUR Crystal Blast hits a dervish beachcomber for a critical of 1,983 magic damage.
+(1669916276)[Thu Dec  1 17:37:56 2022] A dervish beachcomber is pierced by a Crystal Blast!
+(1669916277)[Thu Dec  1 17:37:57 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916277)[Thu Dec  1 17:37:57 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 127 heat damage.
+(1669916279)[Thu Dec  1 17:37:59 2022] a dervish beachcomber hits YOU for 94 crushing damage.
+(1669916279)[Thu Dec  1 17:37:59 2022] a dervish beachcomber's Jolting Strike hits YOU for 15 magic damage.
+(1669916279)[Thu Dec  1 17:37:59 2022] You are struck by a Thundering Fist.
+(1669916281)[Thu Dec  1 17:38:01 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 127 heat damage.
+(1669916282)[Thu Dec  1 17:38:02 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916282)[Thu Dec  1 17:38:02 2022] YOU hit a dervish beachcomber for 740 crushing damage.
+(1669916282)[Thu Dec  1 17:38:02 2022] YOUR Terror Yaulp refreshes YOU for 110 mana points.
+(1669916282)[Thu Dec  1 17:38:02 2022] You are filled with the power of the Terror Yaulp!
+(1669916284)[Thu Dec  1 17:38:04 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916284)[Thu Dec  1 17:38:04 2022] a dervish beachcomber tries to confound YOU with Silent Threat, but YOU resist.
+(1669916285)[Thu Dec  1 17:38:05 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 128 heat damage.
+(1669916285)[Thu Dec  1 17:38:05 2022] a dervish beachcomber hits YOU for 116 crushing damage.
+(1669916285)[Thu Dec  1 17:38:05 2022] a dervish beachcomber's Jolting Strike hits YOU for 18 magic damage.
+(1669916285)[Thu Dec  1 17:38:05 2022] You are struck by a Thundering Fist.
+(1669916287)[Thu Dec  1 17:38:07 2022] You strike A dervish beachcomber with a fiery explosion!
+(1669916287)[Thu Dec  1 17:38:07 2022] The flames die out.
+(1669916287)[Thu Dec  1 17:38:07 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 1,063 heat damage.
+(1669916287)[Thu Dec  1 17:38:07 2022] A dervish beachcomber is struck with a fiery explosion!
+(1669916288)[Thu Dec  1 17:38:08 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916290)[Thu Dec  1 17:38:10 2022] YOU hit a dervish beachcomber for 741 crushing damage.
+(1669916290)[Thu Dec  1 17:38:10 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916291)[Thu Dec  1 17:38:11 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 128 heat damage.
+(1669916292)[Thu Dec  1 17:38:12 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916295)[Thu Dec  1 17:38:15 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 128 heat damage.
+(1669916296)[Thu Dec  1 17:38:16 2022] a dervish beachcomber's Crescent Strike hits YOU for 85 magic damage.
+(1669916296)[Thu Dec  1 17:38:16 2022] a dervish beachcomber's Jolting Strike hits YOU for 16 magic damage.
+(1669916296)[Thu Dec  1 17:38:16 2022] You are struck by a Thundering Fist.
+(1669916296)[Thu Dec  1 17:38:16 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916297)[Thu Dec  1 17:38:17 2022] YOU hit a dervish beachcomber for 783 crushing damage.
+(1669916299)[Thu Dec  1 17:38:19 2022] a dervish beachcomber hits YOU for 124 crushing damage.
+(1669916299)[Thu Dec  1 17:38:19 2022] a dervish beachcomber's Jolting Strike hits YOU for 12 magic damage.
+(1669916299)[Thu Dec  1 17:38:19 2022] You are struck by a Thundering Fist.
+(1669916299)[Thu Dec  1 17:38:19 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 128 heat damage.
+(1669916301)[Thu Dec  1 17:38:21 2022] a dervish beachcomber's Waking Dragon hits YOU for 73 crushing damage.
+(1669916301)[Thu Dec  1 17:38:21 2022] a dervish beachcomber's Jolting Strike hits YOU for 12 magic damage.
+(1669916301)[Thu Dec  1 17:38:21 2022] You are struck by a Thundering Fist.
+(1669916301)[Thu Dec  1 17:38:21 2022] You are struck by the pouncing tiger.
+(1669916302)[Thu Dec  1 17:38:22 2022] a dervish beachcomber tries to crush YOU, but misses.
+(1669916303)[Thu Dec  1 17:38:23 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 128 heat damage.
+(1669916304)[Thu Dec  1 17:38:24 2022] a dervish beachcomber hits YOU for 85 crushing damage.
+(1669916304)[Thu Dec  1 17:38:24 2022] a dervish beachcomber's Jolting Strike hits YOU for 16 magic damage.
+(1669916304)[Thu Dec  1 17:38:24 2022] You are struck by a Thundering Fist.
+(1669916304)[Thu Dec  1 17:38:24 2022] You strike A dervish beachcomber with a fiery explosion!
+(1669916304)[Thu Dec  1 17:38:24 2022] The flames die out.
+(1669916304)[Thu Dec  1 17:38:24 2022] YOUR Fiery Annihilation hits a dervish beachcomber for 1,063 heat damage.
+(1669916304)[Thu Dec  1 17:38:24 2022] \aNPC 7576485 a dervish beachcomber:a dervish beachcomber\/a says, "You fight like a coward."
+(1669916304)[Thu Dec  1 17:38:24 2022] You stop fighting.
+(1669916304)[Thu Dec  1 17:38:24 2022] You have killed a dervish beachcomber.
+(1669916304)[Thu Dec  1 17:38:24 2022] A dervish beachcomber is struck with a fiery explosion!
+(1669916304)[Thu Dec  1 17:38:24 2022] The flames die out.
+(1669916306)[Thu Dec  1 17:38:26 2022] You loot 8 Silver, 86 Copper from the corpse of a dervish beachcomber.
+(1669916324)[Thu Dec  1 17:38:44 2022] \aPC -1 River:River\/a tells General (2), "SERENITY -   chill    CASUAL    guild recruiting - aiming for everyday grouping / all major questlines with discord / advice and help freely available - fully stocked prestige guild houses in FP and QN -  please send  /tell for invite     =))"
+(1669916329)[Thu Dec  1 17:38:49 2022] \aPC -1 Coquine:Coquine\/a tells General (2), "Raid et Raclette recrute ! Contactez-nous ! ������ Le serieux des Raids et la convivialité de la raclette!"
+(1669916382)[Thu Dec  1 17:39:42 2022] \aPC -1 Yhin:Yhin\/a tells General (2), "river you dont buy my mats like you used to and it hurts"
+(1669916387)[Thu Dec  1 17:39:47 2022] \aPC -1 Hiba:Hiba\/a tells LFG (3), "wts powerleveling1-60 or any range pl pst"
+(1669916421)[Thu Dec  1 17:40:21 2022] \aPC -1 River:River\/a tells General (2), "i will go look and see what i can do Yhin     =))"
+(1669916430)[Thu Dec  1 17:40:30 2022] \aPC -1 Yhin:Yhin\/a tells General (2), "lol im just playin"
+(1669916449)[Thu Dec  1 17:40:49 2022] You send your pet in for the attack!
+(1669916451)[Thu Dec  1 17:40:51 2022] Garn's Shout increases THEIR hate with a dervish croc hunter for 2,026 threat.
+(1669916451)[Thu Dec  1 17:40:51 2022] Garn's Aery Whip hits a dervish croc hunter for a critical of 1,121 cold damage.
+(1669916451)[Thu Dec  1 17:40:51 2022] \aNPC 9636868 a dervish croc hunter:a dervish croc hunter\/a says, "At last! Someone else to kill!"
+(1669916451)[Thu Dec  1 17:40:51 2022] a dervish croc hunter tries to pierce Garn with Rupture, but Garn parries.
+(1669916452)[Thu Dec  1 17:40:52 2022] \aPC -1 Yhin:Yhin\/a tells General (2), "just wanted to say hi really lol"
+(1669916452)[Thu Dec  1 17:40:52 2022] a dervish croc hunter tries to pierce Garn, but Garn parries.
+(1669916452)[Thu Dec  1 17:40:52 2022] Garn's Aery Whip hits a dervish croc hunter for a critical of 500 cold damage.
+(1669916452)[Thu Dec  1 17:40:52 2022] Garn's Galestorm hits a dervish croc hunter for 3,002 cold damage.
+(1669916452)[Thu Dec  1 17:40:52 2022] Garn's Shout increases THEIR hate with a dervish croc hunter for 2,004 threat.
+(1669916453)[Thu Dec  1 17:40:53 2022] Garn's Storm Surge hits a dervish croc hunter for 1,795 cold damage.
+(1669916453)[Thu Dec  1 17:40:53 2022] Garn's Shout increases THEIR hate with a dervish croc hunter for 1,924 threat.
+(1669916454)[Thu Dec  1 17:40:54 2022] Garn's Aery Whip hits a dervish croc hunter for a critical of 515 cold damage.
+(1669916454)[Thu Dec  1 17:40:54 2022] Garn's Thunderous Attack hits a dervish croc hunter for 1,452 cold damage.
+(1669916454)[Thu Dec  1 17:40:54 2022] Garn has killed a dervish croc hunter.
+(1669916470)[Thu Dec  1 17:41:10 2022] \aPC -1 River:River\/a tells General (2), "cool     =))"
+(1669916515)[Thu Dec  1 17:41:55 2022] \aPC -1 Groko:Groko\/a tells General (2), "30 Dirge LFG"
