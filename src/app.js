@@ -1,13 +1,10 @@
 'use strict';
-
-// 1) Monitors the log file for new entries
-// 2) New entries are filtered for processing
-// 3) Data is organised into encounters
-// 4) Enccounters are saved in the db
-
+require('./db/mongoose');
 
 const fs = require('fs');
-const exportParse = require('./export');
+const Log = require('./model');
+
+
 let timeStamp = 0;
 let encounterArray = [];
 let encounterJunk = [];
@@ -17,9 +14,7 @@ let encounterJunk = [];
 // PRODUCTION DATA
 // ---------------
 const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon/';
-// const read = 'eq2log_Keplan.txt';
 const read = 'eq2log_Terek.txt';
-// const read = 'eq2log_Qzvx.txt';
 
 
 // ---------
@@ -29,12 +24,14 @@ const read = 'eq2log_Terek.txt';
 // const read = 'sample-log.txt';
 
 
-const testPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/outputs/';
+// const testPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/outputs/';
 let startCount = fs.readFileSync(`${path}${read}`, 'utf8').split('\n').length -2;
 
 let combatStatus = false;
 const changeArray = [];
 let id=0
+
+
 
 
 // ----------------------------------------------------------------------------
@@ -43,7 +40,6 @@ let id=0
 const interval = 4000;
 fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
     const start = Date.now();
-    console.log(`${Date.now()}: Poling ${read} for changes`);
     let index, record, timeStamp;
 
     // HEAVY STEP - puts the combat log into an array split by utf8 newline char 
@@ -54,7 +50,10 @@ fs.watchFile(`${path}${read}`,{interval:interval}, ()=>{
         record = data[index];
 
         // Isolates new records and forwards for processing 
-        if(startCount === index) return
+        if(startCount === index){
+            closeEncounter();
+            return
+        } 
         dataFilter(data.slice(startCount+1, index+1)); // +1 is to include the last record (0 based). Not to be confused with the logCalibration value 
         startCount = index;
     });            
@@ -85,7 +84,7 @@ function dataFilter(arr){
 
         else{
             // temporary dump for non combat entries for analysis and verification
-            // will be removed when im sure all combat entries have been processed
+            // can be removed when im sure all combat entries have been processed
             encounterJunk.push(e);
         };
     })
@@ -97,7 +96,7 @@ function dataFilter(arr){
 // ----------------------------------------------------------------------------
 function encounterManager(element){
     const lifeSpan = 5; // this is the delay 
-    console.log(element);
+    // console.log(element);
     
     // determine which encounter it belolongs to
     const elementTimestamp = getTimeStamp(element);
@@ -106,41 +105,44 @@ function encounterManager(element){
         // belongs to the managed encounter
         encounterArray.push(element);
     } else {
+        closeEncounter(element);
         // is a new encounter
 
-        // gets encounter duration
-        const encounterStart = getTimeStamp(encounterArray[0]); 
-        const encounterEnd = getTimeStamp(encounterArray[encounterArray.length-1]); 
-        const encounterDuration = encounterEnd-encounterStart; // seconds
-        let encounterName
+        // // gets encounter duration
+        // const encounterStart = getTimeStamp(encounterArray[0]); 
+        // const encounterEnd = getTimeStamp(encounterArray[encounterArray.length-1]); 
+        // const encounterDuration = encounterEnd-encounterStart; // seconds
+        // let encounterName
 
-        // gets encounter name
-        for(let i=0; i<encounterArray.length;i++){
-            const el = encounterArray[i];
-            if(el.includes('YOU' && 'hit' && 'for') && el.indexOf('YOU')<el.indexOf('hit')){
-                encounterName = el.slice(el.indexOf('hit')+4,el.lastIndexOf('for')).trim();
-                break;
-            }
-        }
+        // // gets encounter name
+        // for(let i=0; i<encounterArray.length;i++){
+        //     const el = encounterArray[i];
+        //     if(el.includes('YOU' && 'hit' && 'for') && el.indexOf('YOU')<el.indexOf('hit')){
+        //         encounterName = el.slice(el.indexOf('hit')+4,el.lastIndexOf('for')).trim();
+        //         break;
+        //     }
+        // }
 
-        const obj = {
-            name: encounterName,
-            duration: encounterDuration,
-            combatData: encounterArray,
-            otherData: encounterJunk
-        }
+        // // instantiates mongoose data model
+        // const log = new Log({
+        //     name: encounterName,
+        //     duration: encounterDuration,
+        //     combatData: encounterArray,
+        //     otherData: encounterJunk
+        // })
 
-        fs.appendFile(`${testPath}primary.json`,JSON.stringify(obj, null, 2),(err, data)=>{
-            if(err){console.log(err);}
-            else{
-                console.log('File appended.');
-            }
-        } )
+        // // Save to database
+        // log.save().then(data=>{
+        //     console.log('DATA: ...');
+        //     console.log(data);
+        // }).catch(err=>{
+        //     console.log(err);
+        // })
 
-        // encounter resets 
-        encounterArray = [];
-        encounterJunk = [];
-        encounterArray.push(element);
+        // // encounter resets 
+        // encounterArray = [];
+        // encounterJunk = [];
+        // encounterArray.push(element);
     }
     timeStamp = elementTimestamp;
 }
@@ -149,4 +151,42 @@ function encounterManager(element){
 // Takes a log entry and returns the timestamp 
 function getTimeStamp(str){
     return parseInt(str.slice(1, 11));
+}
+
+function closeEncounter(element = false){
+    console.log('CloseEncounter has been called!');
+    // gets encounter duration
+    const encounterStart = getTimeStamp(encounterArray[0]); 
+    const encounterEnd = getTimeStamp(encounterArray[encounterArray.length-1]); 
+    const encounterDuration = encounterEnd-encounterStart; // seconds
+    let encounterName
+
+    // gets encounter name
+    for(let i=0; i<encounterArray.length;i++){
+        const el = encounterArray[i];
+        if(el.includes('YOU' && 'hit' && 'for') && el.indexOf('YOU')<el.indexOf('hit')){
+            encounterName = el.slice(el.indexOf('hit')+4,el.lastIndexOf('for')).trim();
+            break;
+        }
+    }
+
+    // instantiates mongoose data model
+    const log = new Log({
+        name: encounterName,
+        duration: encounterDuration,
+        combatData: encounterArray,
+        otherData: encounterJunk
+    })
+
+    // Save to database
+    log.save().then(data=>{
+        console.log(data);
+    }).catch(err=>{
+        console.log(err);
+    })
+
+    // encounter resets 
+    encounterArray = [];
+    encounterJunk = [];
+    element?encounterArray.push(element):null;
 }
