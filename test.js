@@ -1,5 +1,2 @@
-setInterval(() => {
-    setTimeout(() => {
-        console.log('Testing...');
-    }, 500);
-}, 1000);
+let x =[]
+console.log(x.length);

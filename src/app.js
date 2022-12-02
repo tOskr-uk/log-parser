@@ -18,19 +18,18 @@ const read = 'eq2log_Terek.txt';
 
 // const testPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/outputs/';
 // let startCount = fs.readFileSync(`${path}${read}`, 'utf8').split('\n').length -2;
-
 let count;
-let lastTimeStamp = 0;
+let lastTimeStamp = 0; // current timestamp
+let elementTimeStamp = 0; // last event time stamp
 let encounterArray = [];
 let encounterJunk = [];
 
 // ----------------------------------------------------------------------------
 // 1) Monitors the source log file for new entries 
 // ----------------------------------------------------------------------------
+const lifeSpan = 4; // this is the delay 
 const interval = 4000;
 setInterval(() => {   
-    const start = Date.now();
-    
     fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
         if (err) {console.log(err); return };
         !count?count = data.length:false; // sets count value for first run
@@ -38,68 +37,69 @@ setInterval(() => {
         let newData = data.slice(data.length - (data.length - count));
         if(newData){
             newData = newData.split(/\r?\n/);
-            dataFilter(newData);
+            dataSort(newData);
+        } else {
+            if(encounterArray.length > 0){
+                if(Date.now() >= lastTimeStamp + lifeSpan*1000){
+                    closeEncounter('setInterval');
+                }
+            } 
         }
         count = data.length;
     });
-    // console.log();       
 }, interval);
 
 
-// ----------------------------------------------------------------------------
-// 2) New entries are filtered for processing
-// ----------------------------------------------------------------------------
-function dataFilter(arr){
-    arr.forEach(e=>{        
-        // COMBAT TEST
-        if(e.includes('hits a' && 'for' && 'damage')){ encounterManager(e); }
-        else if(e.includes(('You start fighting'))){ encounterManager(e); }
-        else if(e.includes(('You stop fighting'))){ encounterManager(e); }
-        else if(e.includes(('You have killed a'))){ encounterManager(e); }
-        else if(e.includes(('You lose consciousness!'))){ encounterManager(e); }
-        else if(e.includes(('tries to' && 'but misses'))){ encounterManager(e); }
-        else if(e.includes(('tries to' && 'but' && 'parries'))){ encounterManager(e); }
-        else if(e.includes(('tries to' && 'but' && 'resists'))){ encounterManager(e); }
-        else if(e.includes(('tries to' && 'but' && 'blocks'))){ encounterManager(e); }
-        else if(e.includes(('but YOU resist'))){ encounterManager(e); }
-        else if(e.includes(('has killed a'))){ encounterManager(e); }
 
-        else{
-            // temporary dump for non combat entries for analysis and verification
-            // can be removed when im sure all combat entries have been processed
-
-            // TODO: This will be a huge entry, need to check its needed (maybe check the encounter array length and only add it if it has data in it)
-            encounterJunk.push(e);
-        };
+// ----------------------------------------------------------------------------
+// 2) New entries are sorted and processed
+// ----------------------------------------------------------------------------
+function dataSort(arr){
+    arr.forEach(e=>{
+        if(e.includes('hits a' && 'for' && 'damage')
+        || e.includes('You start fighting')
+        || e.includes('You stop fighting')
+        || e.includes('You have killed a')
+        || e.includes('You lose consciousness!')
+        || e.includes('tries to' && 'but misses')
+        || e.includes('tries to' && 'but' && 'parries')
+        || e.includes('tries to' && 'but' && 'resists')
+        || e.includes('tries to' && 'but' && 'blocks')
+        || e.includes('but YOU resist')
+        || e.includes('has killed a')){
+            elementTimeStamp = getTimeStamp(e);
+            lastTimeStamp = Date.now();
+            if(encounterArray.length === 0){
+                encounterArray.push(e);
+            } else {
+                const lets = getTimeStamp(encounterArray[encounterArray.length-1]); // Last Element Time Stamp
+                if(elementTimeStamp+lifeSpan > lets){  
+                // if true, this event belongs to current encounter
+                    encounterArray.push(e);
+                } else {
+                // this event does NOT belong to this encounter
+                    closeEncounter('dataSort (81 - calculated from a new encounter)');
+                    encounterArray.push(e);
+                }
+            }
+        } else {
+            // non combat entries: check combat encounter status here
+            if(encounterArray.length > 0){
+                if(getTimeStamp(e) >= elementTimeStamp + lifeSpan){
+                    closeEncounter('dataSort (89 - calculated from non combat entries)');
+                }
+            }
+        }
     })
 }
 
 
-// ----------------------------------------------------------------------------
-// 3) Data is organised into encounters
-// ----------------------------------------------------------------------------
-function encounterManager(element){
-    const lifeSpan = 5; // this is the delay 
-    
-    // determine which encounter it belolongs to
-    const elementTimestamp = getTimeStamp(element);
-    lastTimeStamp===0?lastTimeStamp=elementTimestamp:null; // sets lastTimeStamp variable for first time use. 
-    if(elementTimestamp > lastTimeStamp+lifeSpan){
-        // console.log('xxxx');
-        closeEncounter();  // belongs to the next encounter if true
-    } 
-    encounterArray.push(element); // encounterArray is reset in the closeEncounter method.
-    // console.log(`Array Length: ${encounterArray.length}`);
-    lastTimeStamp = elementTimestamp;
-}
 
-
-// Takes a log entry and returns the timestamp 
 function getTimeStamp(str){
     return parseInt(str.slice(1, 11));
 }
 
-function closeEncounter(){
+function closeEncounter(str){
     // gets encounter duration
     const encounterStart = getTimeStamp(encounterArray[0]); 
     const encounterEnd = getTimeStamp(encounterArray[encounterArray.length-1]); 
@@ -126,12 +126,14 @@ function closeEncounter(){
 
     // Save to database
     log.save().then(data=>{
+        console.log(`closeEncounter called from ${str}`);
         console.log('New record has been added');
     }).catch(err=>{
         console.log(err);
     })
     
     // encounter resets 
+    console.log(encounterArray);
     encounterArray = [];
     encounterJunk = [];   
 }
