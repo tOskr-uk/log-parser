@@ -30,10 +30,14 @@ let encounterJunk = [];
 const lifeSpan = 4; // this is the delay 
 const interval = 4000;
 setInterval(() => {   
+}, interval);
+
+function start(){
+    // console.trace();
     fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
         if (err) {console.log(err); return };
         !count?count = data.length:false; // sets count value for first run
-        
+    
         let newData = data.slice(data.length - (data.length - count));
         if(newData){
             newData = newData.split(/\r?\n/);
@@ -46,8 +50,10 @@ setInterval(() => {
             } 
         }
         count = data.length;
+        start();
     });
-}, interval);
+}
+start();
 
 
 
