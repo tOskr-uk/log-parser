@@ -4,34 +4,16 @@ require('./db/mongoose');
 const fs = require('fs');
 const Log = require('./model');
 
-// PRODUCTION DATA
-// ---------------
 const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon/';
 const read = 'eq2log_Terek.txt';
 
-
-// TEST DATA
-// ---------
-// const path = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/';
-// const read = 'sample-log.txt';
-
-
-// const testPath = '/home/toskr/Desktop/projects/EQ2-Parser/test-data/outputs/';
-// let startCount = fs.readFileSync(`${path}${read}`, 'utf8').split('\n').length -2;
 let count;
 let lastTimeStamp = 0; // current timestamp
 let elementTimeStamp = 0; // last event time stamp
 let encounterArray = [];
 let encounterJunk = [];
 
-// ----------------------------------------------------------------------------
-// 1) Monitors the source log file for new entries 
-// ----------------------------------------------------------------------------
 const lifeSpan = 4; // this is the delay 
-const interval = 4000;
-setInterval(() => {   
-}, interval);
-
 function start(){
     // console.trace();
     fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
@@ -56,10 +38,6 @@ function start(){
 start();
 
 
-
-// ----------------------------------------------------------------------------
-// 2) New entries are sorted and processed
-// ----------------------------------------------------------------------------
 function dataSort(arr){
     arr.forEach(e=>{
         if(e.includes('hits a' && 'for' && 'damage')
@@ -99,12 +77,6 @@ function dataSort(arr){
     })
 }
 
-
-
-function getTimeStamp(str){
-    return parseInt(str.slice(1, 11));
-}
-
 function closeEncounter(str){
     // gets encounter duration
     const encounterStart = getTimeStamp(encounterArray[0]); 
@@ -142,4 +114,8 @@ function closeEncounter(str){
     console.log(encounterArray);
     encounterArray = [];
     encounterJunk = [];   
+}
+
+function getTimeStamp(str){
+    return parseInt(str.slice(1, 11));
 }
