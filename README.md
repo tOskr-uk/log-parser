@@ -2,6 +2,8 @@
 
 An application to parse the EQ2 log file and extract key data for performance analysis.
 
+## Note: this is more of a temporary mind dump area rather than a formal presentation of the project. When its complete or at least operational with all key features I will formalise it.
+
 ## Observation
 * Log timer uses 1 second units.
 * Many entries can exists sharing the same timer stamp
@@ -69,7 +71,7 @@ Damage the player outputs features as 'YOU' and 'YOUR' Some samples include...
 _|Check a players pet with the same name as the player is parsed by their name also.||
 Done |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|export.js module created to to this. Added optional params that default to the test environment. See module for details|
 Done |Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included. Maybe check other parsers see if this works... |All non combat data has been removed from exported parse.|
-_|Replace the readFileSync method with async version to address processing time issues with busy log (Live file processing on large log file with 66k entries, over 6 million chars currently takes 1300ms. Need to monitor manualy and adjust the interval value to better accomodate the processing time until async methods are tested. need to investigate methods to improve on this if its posible) ||
+Done |Replace the readFileSync method with async version to address processing time issues with busy log (Live file processing on large log file with 66k entries, over 6 million chars currently takes 1300ms. Need to monitor manualy and adjust the interval value to better accomodate the processing time until async methods are tested. need to investigate methods to improve on this if its posible) |Have abandoned all the fs methods for monitoring file changes and made my own async function that so far appears to work a lot more efficiently with no (so far) memoty heap issues on very large encounters.|
 _|Need to accomodate riposte damage. I dont currently have any log data showing this event type but from what I have seen the riposte event and the damage associated with it are on seperate entries. See sample below. Need to look into it and accomodate it.  ||
 
     
