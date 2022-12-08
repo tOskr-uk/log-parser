@@ -11,16 +11,12 @@ An application to parse the EQ2 log file and extract key data for performance an
 
 
 
-1) app will have to continuously monitor the combat log for changes but the frequency of the check (interval) should be less than the processing time.
 
-Test 1 - interval set to 100ms
+Test 1 
 New log file processing time is 1ms.
 medium log file (950kB, approx 5000 entries) takes 14ms
-very large log file (66MB, approx 66k entries) takes 967ms and crashes the application.
+very large log file (66MB, approx 66k entries) takes 967ms.
 
-conclusion: Its still missing entries as some appear to be logged in blocks with the same time stamp so relying on a change event to trigger each new update isnt working. Am going to have to think of a way to watch for an event then loop back through the log to find the time stamp of a combat event start point then again to determine a combat event end point then process the code in-between.
-
-I may still get away without the need for a async function as the combat log itself will never miss an event as its updated by the game.
 
 
 # log analysis
