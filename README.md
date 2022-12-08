@@ -2,9 +2,6 @@
 
 An application to parse the EQ2 log file and extract key data for performance analysis.
 
-The EQ2 log file is currently being continuously moitored for changes using node fs.watchFile which apears to be performing well so far. May consider replacing it using a method yet to be determined to check on the size and or in combination with other file attributes that indicate a change in the log file without the need to process the files contents.
-
-
 ## Observation
 * Log timer uses 1 second units.
 * Many entries can exists sharing the same timer stamp
@@ -19,9 +16,9 @@ New log file processing time is 1ms.
 medium log file (950kB, approx 5000 entries) takes 14ms
 verylarge log file (66MB, apporx 66k entries) takes 967ms and crashes the application.
 
-conclusion: Its still missing entries as some appear to be logged in blocks with the same time stamp so relying on a change event to trigger each new update isnt going to work. Am going to have to think of a way to watch for an event then loop back through the log to find the time stamp of a combat event start point then again to determione a combat event end point then process the code inbetween.
+conclusion: Its still missing entries as some appear to be logged in blocks with the same time stamp so relying on a change event to trigger each new update isnt working. Am going to have to think of a way to watch for an event then loop back through the log to find the time stamp of a combat event start point then again to determione a combat event end point then process the code inbetween.
 
-I may still get away without the need for a async function as the combat log itself will never miss an event as its updated by the game engine.
+I may still get away without the need for a async function as the combat log itself will never miss an event as its updated by the game.
 
 
 # log analysis
