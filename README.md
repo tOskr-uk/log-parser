@@ -5,8 +5,8 @@ An application to parse the EQ2 log file and extract key data for performance an
 *Note: this is more of a temporary mind dump area rather than a formal presentation of the project. When its complete or at least operational with all key features I will formalise it.*
 
 ## Observation
-* Log timer uses 1 second units.
 * Many entries can exists sharing the same timer stamp
+* Riposte events are spread of multiple log entries. Assumption is the riposte damage imediately follows the riposte event but need to confirm when I get more data. 
 
 
 
