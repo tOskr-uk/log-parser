@@ -6,7 +6,7 @@ An application to parse the EQ2 log file and extract key data for performance an
 
 ## Observation
 * Many entries can exists sharing the same timer stamp
-* Riposte events are spread of multiple log entries. Assumption is the riposte damage imediately follows the riposte event but need to confirm when I get more data. 
+* Riposte events are spread of multiple log entries. Assumption is the riposte damage immediately follows the riposte event but need to confirm when I get more data. 
 
 
 
@@ -16,9 +16,9 @@ An application to parse the EQ2 log file and extract key data for performance an
 Test 1 - interval set to 100ms
 New log file processing time is 1ms.
 medium log file (950kB, approx 5000 entries) takes 14ms
-verylarge log file (66MB, apporx 66k entries) takes 967ms and crashes the application.
+very large log file (66MB, approx 66k entries) takes 967ms and crashes the application.
 
-conclusion: Its still missing entries as some appear to be logged in blocks with the same time stamp so relying on a change event to trigger each new update isnt working. Am going to have to think of a way to watch for an event then loop back through the log to find the time stamp of a combat event start point then again to determione a combat event end point then process the code inbetween.
+conclusion: Its still missing entries as some appear to be logged in blocks with the same time stamp so relying on a change event to trigger each new update isnt working. Am going to have to think of a way to watch for an event then loop back through the log to find the time stamp of a combat event start point then again to determine a combat event end point then process the code in-between.
 
 I may still get away without the need for a async function as the combat log itself will never miss an event as its updated by the game.
 
@@ -69,10 +69,10 @@ Damage the player outputs features as 'YOU' and 'YOUR' Some samples include...
 |Status |Task |Update |
 |-|-|-|
 _|Check a players pet with the same name as the player is parsed by their name also.||
-Done |Parse sample log file and save ouputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|export.js module created to to this. Added optional params that default to the test environment. See module for details|
-Done |Ensure '\aNPC' entries are exluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included. Maybe check other parsers see if this works... |All non combat data has been removed from exported parse.|
-Done |Replace the readFileSync method with async version to address processing time issues with busy log (Live file processing on large log file with 66k entries, over 6 million chars currently takes 1300ms. Need to monitor manualy and adjust the interval value to better accomodate the processing time until async methods are tested. need to investigate methods to improve on this if its posible) |Have abandoned all the fs methods for monitoring file changes and made my own async function that so far appears to work a lot more efficiently with no (so far) memoty heap issues on very large encounters.|
-_|Need to accomodate riposte damage. I dont currently have any log data showing this event type but from what I have seen the riposte event and the damage associated with it are on seperate entries. See sample below. Need to look into it and accomodate it.  ||
+Done |Parse sample log file and save outputs filtered for the following keywords. [YOU, you, You, YOUR, Garn (pet name), Garn's, Adohi, Adohi's]|export.js module created to to this. Added optional params that default to the test environment. See module for details|
+Done |Ensure '\aNPC' entries are excluded. These appear to be chat entries which could be exploited to influence the parse if keywords are included. Maybe check other parsers see if this works... |All non combat data has been removed from exported parse.|
+Done |Replace the readFileSync method with async version to address processing time issues with busy log (Live file processing on large log file with 66k entries, over 6 million chars currently takes 1300ms. Need to monitor manually and adjust the interval value to better accommodate the processing time until async methods are tested. need to investigate methods to improve on this if its possible) |Have abandoned all the fs methods for monitoring file changes and made my own async function that so far appears to work a lot more efficiently with no (so far) memory heap issues on very large encounters.|
+_|Need to accommodate riposte damage. I don't currently have any log data showing this event type but from what I have seen the riposte event and the damage associated with it are on separate entries. See sample below. Need to look into it and accommodate it.  ||
 
     
 
