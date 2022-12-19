@@ -4,8 +4,8 @@
   "description": "An application to parse the EQ2 log file and extract key data for performance analysis.",
   "main": "app copy.js",
   "scripts": {
-    "start": "nodemon src/app.js",
-    "server": "nodemon server.js"
+    "parse": "nodemon src/parse.js",
+    "server": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
