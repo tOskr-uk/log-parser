@@ -2,7 +2,7 @@
 require('./db/mongoose');
 
 const fs = require('fs');
-const Log = require('./model');
+const LogEntry = require('./model');
 
 const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon/';
 const read = 'eq2log_Terek.txt';
@@ -95,7 +95,7 @@ function closeEncounter(str){
     }
 
     // Instantiates mongoose data model
-    const log = new Log({
+    const logEntry = new LogEntry({
         name: encounterName,
         duration: encounterDuration,
         combatData: encounterArray,
@@ -103,7 +103,7 @@ function closeEncounter(str){
     })
 
     // Save to database
-    log.save().then(data=>{
+    logEntry.save().then(data=>{
         console.log(`closeEncounter called from ${str}`);
         console.log('New record has been added');
     }).catch(err=>{
