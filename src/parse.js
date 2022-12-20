@@ -11,9 +11,9 @@ let count;
 let lastTimeStamp = 0; // current timestamp
 let elementTimeStamp = 0; // last event time stamp
 let encounterArray = [];
-let encounterJunk = [];
+// let encounterJunk = [];
 
-const lifeSpan = 4; // this is the delay 
+const lifeSpan = 4; // this is the delay limit between combat entries
 function start(){
     // console.trace();
     fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
@@ -99,7 +99,7 @@ function closeEncounter(str){
         name: encounterName,
         duration: encounterDuration,
         combatData: encounterArray,
-        otherData: encounterJunk
+        // otherData: encounterJunk
     })
 
     // Save to database
@@ -113,7 +113,7 @@ function closeEncounter(str){
     // encounter resets 
     console.log(encounterArray);
     encounterArray = [];
-    encounterJunk = [];   
+    // encounterJunk = [];   
 }
 
 function getTimeStamp(str){

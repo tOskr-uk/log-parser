@@ -14,11 +14,6 @@ const Log = mongoose.model('Log',{
     combatData: {
         type: Array,
         required: true
-    },
-    otherData: {
-        type: Array,
-        required: true,
-        default: []
     } 
 })
 
