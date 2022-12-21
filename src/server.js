@@ -1,6 +1,6 @@
 const express = require('express');
-const Log = require('./model');
-require('./db/mongoose') // runs the file directly from here
+const Log = require('./dataModel');
+require('./db/mongoose') // runs the file directly from here without the need to export it.
 
 const app = express();
 app.set('view engine', 'ejs')

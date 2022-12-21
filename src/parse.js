@@ -2,7 +2,7 @@
 require('./db/mongoose');
 
 const fs = require('fs');
-const LogEntry = require('./model');
+const LogEntry = require('./dataModel');
 
 const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon/';
 const read = 'eq2log_Terek.txt';
@@ -11,11 +11,10 @@ let count;
 let lastTimeStamp = 0; // current timestamp
 let elementTimeStamp = 0; // last event time stamp
 let encounterArray = [];
-// let encounterJunk = [];
 
 const lifeSpan = 4; // this is the delay limit between combat entries
 function start(){
-    // console.trace();
+    fs.promises.readFile(1,)
     fs.readFile(`${path}${read}`,{encoding:'utf8'}, (err, data)=> {
         if (err) {console.log(err); return };
         !count?count = data.length:false; // sets count value for first run
