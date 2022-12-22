@@ -1,28 +1,20 @@
 'use strict';
-// require('./db/mongoose');
-
-// const LogEntry = require('./dataModel');
-
 const tools = require('./src/tools');
-
 const path = '/home/toskr/.steam/debian-installation/steamapps/common/EverQuest 2/logs/Varsoon';
 const file = 'eq2log_Terek.txt';
 
-let count;
-let lastTimeStamp = 0; // current timestamp
-let elementTimeStamp = 0; // last event time stamp
-let encounterArray = [];
-
-const lifeSpan = 4; // this is the delay limit between combat entries
-
-async function start(){
+async function importAll(){
     let data = await tools.readFile(`${path}/${file}`)
     data = data.split(/\r?\n/);
-    data = tools.isolateCombatData(data)
-    await tools.writeFile(data);
-    console.log('Data has been processed and saved to file.');
+    console.log('Data has been formatted');
+    data = tools.isolateCombatData(data);
+    console.log('Data has been sorted');
+    data = tools.encounterExtraction(data);
 
-    
+    // await tools.writeFile(data);
+    // tools.packageEncounter(data);
+    // console.log('Data has been processed and saved to file.');
+    // console.log(data);
     
     // !count?count = data.length:false; // sets count value for first run
 
@@ -45,4 +37,4 @@ async function start(){
     //     start();
     // });
 }
-start();
+importAll();

@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const LogEntry = mongoose.model('LogEntry',{
+const Encounter = mongoose.model('Encounter',{
     name: {
         type: String,
         trim: true,
@@ -11,10 +11,17 @@ const LogEntry = mongoose.model('LogEntry',{
         required: true,
         trim: true
     },
-    combatData: {
+    start: {
+        type: Date,
+        required: true
+    },
+    end: {
+        type: Date,
+        required: true
+    },
+    data: {
         type: Array,
         required: true
-    } 
+    }
 })
-
-module.exports = LogEntry;
+module.exports = Encounter;
