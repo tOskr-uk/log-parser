@@ -12,31 +12,6 @@ mongoose.connect(process.env.DATABASE_LOCAL)
 })
 
 
-
-
-
-
-
-
-// app.use(express.json());
-
-
-// app.get('/',(req, res)=>{
-//     res.render('../public/index');
-// })
-
-// app.get('/data', async(req, res)=>{
-//     try{
-//         const data = await Log.find({});
-//         res.status(201).send(data);
-//     } catch(err){
-//         res.status(500).send(err);
-//     }
-// })
-
-
-
-
 // START SERVER
 const port = process.env.PORT;
 app.listen(port, ()=>{
