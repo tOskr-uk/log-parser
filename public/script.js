@@ -22,7 +22,8 @@ btn.addEventListener('click',(e)=>{
     })
 })
 
-console.log('running...');
+
+
 function encounterList(data){
     const list = document.querySelector('.list');
 
@@ -59,7 +60,13 @@ function encounterData(data){
     } else {
         id = data.target.parentElement.id
     }
-    eventData.innerText = JSON.stringify(encounterDataArray[id].data);
+    const combatData = encounterDataArray[id].data;
+    let str = '';
+    combatData.forEach(e=>{
+        str += `${e}\n`;
+        
+    })
+    eventData.innerText = str;
     // console.log();
 
     // console.log(id);
